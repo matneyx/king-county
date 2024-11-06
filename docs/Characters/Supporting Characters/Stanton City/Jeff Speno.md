@@ -1,0 +1,3 @@
+- **Role**: Local resident and former troublemaker in [[King County, Colorado|King County]]
+- **Background**: Known for getting involved in questionable activities. His relationship with [[Rudy Williams|Rudy]] is tense, with hints of past conflicts and resentment. Jeff represents the type of resident that keeps Rudy on his toes—someone who knows enough to be dangerous but not enough to stay out of trouble.
+- **Current Situation**: Jeff is being hunted down by unknown forces or individuals. He initially seeks Rudy’s help but ultimately falls victim to a trap, potentially set by the vampire [[Mickey Two-Dice|Mickey]] or his associates.

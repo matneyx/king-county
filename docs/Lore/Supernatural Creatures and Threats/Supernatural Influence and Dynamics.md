@@ -1,0 +1,5 @@
+- **Quiet Presence**: Unlike more active supernatural hotbeds, [[King County, Colorado|King County]]’s ecosystem remains relatively subdued. Entities like [[Mickey Two-Dice|Mickey]] and [[Kayla Fawston|Kayla]] seem to recognize the danger of drawing attention, and others like [[Aaron Mabey|Doc]] maintain a transient existence, keeping to the fringes.
+    
+- **Unresolved Conflicts**: [[Aaron Mabey|Doc]]’s arrival and his past with [[Rudy Williams|Rudy]] create potential for confrontation. His reason for seeking Rudy’s help is unknown, but their shared history and the trauma of their last encounter add tension. Similarly, Mickey’s presence in [[Stanton City, Colorado|Stanton City]] raises the possibility of conflict, as a Blood Hunt might attract unwanted attention.
+    
+- **Silas’s Prophecies**: [[Silas Freeman|Silas]]’s psychic abilities place him in a unique position of influence, allowing him to see glimpses of King County’s future. Though human, his powers make him a valuable resource for Rudy or others aware of the supernatural, provided they earn his trust.
