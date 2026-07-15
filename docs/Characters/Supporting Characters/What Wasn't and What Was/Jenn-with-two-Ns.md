@@ -14,6 +14,12 @@ Grounding line to Rudy: "No, Rudy. This one's not on you. It's just life being c
 
 Foreshadowing (unconfirmed): described as "unaware she's being dragged toward something old and ugly" — implies she isn't yet aware of her own entanglement in the supernatural side of the story.
 
+**Confirmed age (per "Rudy Jenn Age Gap," full data export):** 26–27 in Book 1 (September 2014) — Dave's own relieved reaction after running the math: "I was super afraid Jenn was gonna be like 21 or something. 26-27 is a perfect age for her." This puts roughly 16–17 years between her and Rudy, using the "half-your-age-plus-seven" rule as the deliberate benchmark for "just eyebrow-raising, not outright gross." Astrological profile floated and built on rather than rejected: Virgo Sun, Scorpio Moon, Capricorn Rising, birthday **September 9, 1987**.
+
+**Confirmed romance-arc dynamic:** Jenn pursues Rudy, not the other way around — all of the age/danger concerns are already out in the open before their first kiss, since Rudy needs to feel she genuinely understands the risk before he lets her in. Her own line, hinting at unspecified past loss (possibly her miscarriage — see [[What Wasn't and What Was]]'s Jenn/car-accident clue): *"I've buried more friends than I've kissed. I held my own blood in my hands when I was nineteen. You think you're the only one with ghosts?"*
+
+**Confirmed first-kiss beat:** After Rudy says, "I've buried more people than I've loved" (a deliberate correction from an earlier draft's "kissed" — Rudy's a one-night-stand/occasional-sex-worker-client kind of guy, so "kissed" undersold how rare *love* actually is for him), Jenn kisses him first: *"I know I can't fix that... but hopefully that improves the odds."*
+
 Brainstormed future plot beat: Jenn eventually gets a glimpse of the supernatural truth herself. Craft note from the brainstorm — play it quiet and unavoidable, not a big horror reveal, since it shatters a boundary she didn't know she'd been walking. (In tension with a separately drafted, explicit confirmation elsewhere in the same broader conversation that "Jenn doesn't know about the supernatural. Never will if Rudy has anything to say about it" — not reconciled.)
 
 **The Hollow Creek rumor:** Hale tells her an unconfirmed rumor that Rudy shot and killed a man near "Hollow Creek" years ago — no body, no charges, just someone who stopped showing up. She doesn't flinch: "Rudy's never lied to me. Not once... You know how rare that is?" and "I'll take dangerous and honest over clean and fake any day." See [[Rudy Williams]] and [[Development Notes & Unresolved Questions]].
@@ -25,4 +31,5 @@ Brainstormed future plot beat: Jenn eventually gets a glimpse of the supernatura
 ## Timeline
 - **(pre-existing, date unknown):** Established as an employee at [[LeGrande Station]] in [[Shepherd Junction, Colorado|Shepherd Junction]].
 - **2025-06-06 (Pulpify your Story, duality pass):** Established as Rudy's grounding force for [[What Wasn't and What Was]]; her non-magical worldview, sample dialogue, and the foreshadowed future supernatural-reveal beat all introduced here.
+- **2025 ("Rudy Jenn Age Gap," full data export):** Age (26–27), astrological profile/birthday, and the confirmed "buried more people than I've loved" / "improves the odds" first-kiss beat established.
 - **2025-06-04 (Escalating Tensions Rewrite, full transcript):** A much fuller version of this chat surfaced later, adding: the nursing-school/CNA detail and Jensen job lead; the zip-tie car repair anecdote; caretaking details from Rudy's side (peanut brittle, licorice, the ditch rescue); the Hollow Creek rumor and her reaction to it; the "bear" framing; and her guesses about Rudy's unspecified past.

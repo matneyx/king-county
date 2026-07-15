@@ -12,7 +12,7 @@ aliases:
 
 #### **Background**
 
-- **Role in [[The California Incident]]**: A local werewolf pack caught wind of the vampire’s ritual to open a portal, likely due to the [[Wyrm Taint|Wyrm-tainted]] energy emanating from his activities. They attempted to take down the vampire but were ultimately unsuccessful, resulting in one member being blood-bound to the vampire and forced to serve him.
+- **Role in [[The California Incident]]**: A local werewolf pack caught wind of the vampire’s ritual to open a portal, likely due to the [[Wyrm Taint|Wyrm-tainted]] energy emanating from his activities. They attempted to take down the vampire but were ultimately unsuccessful, resulting in one member being blood-bound to the vampire and forced to serve him. See [[Wolfman]] for the brainstormed specifics of that member's arc — surrendering to police to avoid hurting anyone, being shot and regenerating, the blood bond, and his eventual death by silver at [[Rudy Williams|Rudy]]'s hand.
     
 - **Failed Confrontation**: This confrontation left the pack weakened and wary of high-risk supernatural threats. Their failure to prevent the portal ritual may have solidified their reluctance to intervene directly with powerful supernatural beings unless absolutely necessary.
     

@@ -15,4 +15,6 @@ Harv isn't leashed to Mickey's physical proximity either — he can wander off f
 **Current Influence**:
 
 - Harv offers Mickey advice based on his past experiences, sometimes functioning as a voice of reason, albeit one that may not always align with Mickey’s understanding of reality.
+
+**Confirmed human background (per "Vampire Population Ratio," full data export):** A client at [[Missy Chamberlain|Missy]]'s brothel in [[Castle Dell, Georgia]] who fell in love with her; unable to have her, he became her bartender/security/protector instead, and she eventually embraced him. Mickey diablerized him the same night Missy embraced Mickey. Dave's own comparison for the Harv/Mickey dynamic: "Silent Bob" to Mickey's "Jay." His stance toward Mickey is explicitly **pity, not condemnation** — his words can still land with Mickey precisely because he never tries to control him.
  ![[Harv.webp]]

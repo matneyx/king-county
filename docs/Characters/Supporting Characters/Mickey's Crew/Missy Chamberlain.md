@@ -22,4 +22,6 @@ aliases:
 
 - Missy has the ability to provide counsel to Mickey, using her past experiences to subtly guide him, though she also has her own agenda in mind.
 
+**Confirmed human background (per "Vampire Population Ratio," full data export):** A former prostitute before becoming a brothel owner in [[Castle Dell, Georgia]]. Embraced Michael Turino — Mickey's human self, an internationally renowned neurologist/psychiatrist she sought out specifically for his knowledge of the mind, not realizing "there was evil inside of him." Was impartial/distant toward Mickey until he diablerized her — having since watched his cruelty from inside his own head, she now pities him and regrets ever creating him. Dave's own comparison: "she looks at him the same way Jeffrey Dahmer's mom must have looked at him." That pity has real teeth, though — Dave's own further line: "If Missy still had a body, she'd kill Mickey."
+
 ![[Missy Chamberlain.webp]]

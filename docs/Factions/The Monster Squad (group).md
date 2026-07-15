@@ -5,7 +5,7 @@ aliases:
 ---
 > *This is for the Monster Squad faction.  For the film, see [[The Monster Squad (Movie)]]*
 
-**Founded By:** [[Rudy Williams|Rudy]] and a group of friends (including [[Phoebe]], Sean, Patrick, and others)
+**Founded By:** [[Sean]] — the club's actual leader, not Rudy — with [[Rudy Williams|Rudy]], [[Horace]], and [[Phoebe]] (Sean's younger sister, who insists on tagging along) among its core members
 
 **Current Status:** Disbanded; most members are presumed deceased or missing
 
@@ -28,6 +28,10 @@ aliases:
 - **[[Phoebe]]**: The youngest and most sensitive to supernatural forces, Phoebe served as a magical conduit to close the portal. Her current state leaves her unable to assist, but she remains a significant figure, especially for Rudy.
     
 - **[[Scary German Guy]] (Mage)**: Assisted in closing the portal, using his knowledge of the arcane and ritual magic. His current whereabouts are unknown, though Rudy remembers him as an important ally.
+
+- **[[Sean]]**: Phoebe's older brother and the club's true leader — the one with the schemes, the one who brought the police-station shooting/missing-body rumor to the group's attention. Presumed dead along with the rest.
+
+- **[[Horace]]**: A summer-friend-turned-club-member; has his own confirmed "level-up" moment fighting one of the Vampire's brides. Presumed dead along with the rest.
     
 
 ---

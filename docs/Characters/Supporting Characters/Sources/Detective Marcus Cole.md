@@ -14,6 +14,8 @@
 
 **Confirmed (per GM notes generated during play): Marcus is indebted to [[The Broker]]** through an "Old Deal" from the past, serious enough to have pushed him to act against his own moral compass — this is likely the actual mechanism behind the warning note, though it hasn't played out in a scene yet. Still actively working the Clara/Zack case with Rudy afterward (radioed [[Deputy Humboldt]] away from a confrontation with Rudy at a Brindle church), suggesting he isn't in "deep enough" to have skipped town or cut contact — whatever the debt is, he's still trying to help Rudy within its limits.
 
+**Confirmed earlier history (per "No-Tell Motel narration," full data export):** Dave directly identified the Vice Detective from Rudy's mid-1990s [[Stanton City, Colorado|Stanton City]] motel-clerk stint as this same Marcus Cole — predating, and presumably seeding, his later role as Rudy's ongoing contact at Brindle PD.
+
 ![[Detective Marcus Cole.webp]]
 
 ## Timeline
