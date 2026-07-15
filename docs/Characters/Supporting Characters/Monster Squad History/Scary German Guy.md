@@ -25,6 +25,8 @@ Based In: Originally in California; potential to reappear in King County or a ne
 #### **Abilities and Traits**
 
 - **[[Mage]] of Significant Power**: Scary German Guy possesses advanced knowledge of ritual magic, wards, and protective spells, especially regarding portals and inter-dimensional threats. His abilities might align with the [[Mysterium]] order or a similar faction focused on preserving dangerous knowledge.
+
+- **Possibly also a Hunter (brainstormed, unresolved):** One theory floated for how the kids ever cross paths with him at all (there's no German-language diary in this telling to force the connection) has him already scouting the Vampire's hideout on his own, sensing the town's Locus/leyline disturbance as both Mage and Hunter. An alternate, equally unresolved theory has the kids instead stumbling onto German writing or symbols directly in the Vampire's lair, with Scary German Guy as their only lead for translating it. Neither option has been chosen. See [[The California Incident]].
     
 - **Secretive Nature**: Despite aiding [[The Monster Squad (group)]], Scary German Guy kept much of his personal life and knowledge hidden. He likely has a network of contacts in the magical community, but he keeps his distance, operating in secrecy.
     

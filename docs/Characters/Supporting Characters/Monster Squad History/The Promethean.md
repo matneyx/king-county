@@ -15,6 +15,14 @@ aliases:
 #### **Background**
 
 - **Creation and Nature**: The Promethean was a flesh golem animated by the Divine Fire, giving him a semblance of life but lacking a human soul. As a creation of [[The Vampire]], he was initially bound to destroy [[The Monster Squad (group)|the Monster Squad]], driven by the Disquiet his unnatural presence caused in others.
+
+- **Creation method (brainstormed):** [[The Vampire]] is theorized to have animated him with the same lightning strike depicted in the film, of the Frankenstein lineage of Prometheans specifically.
+
+- **Confirmed series endpoint (per "Vampire Population Ratio," full data export):** Both he and [[The Vampire]] eventually return from the Abyss together, roughly 30 years after being pulled in. The Promethean joins [[Rudy Williams|Rudy]]'s circle upon returning — exact circumstances of the return still undecided by Dave, but the fact of it, and his subsequent alliance with Rudy, is confirmed as a fixed future story beat, not just brainstormed.
+
+- **Corrected mechanism — he pushed the Vampire in, not the other way around (per "Civilian Rifle Equivalents," full data export):** Dave's own direct correction of an earlier framing: "the Abyssal tear didn't pull the vampire in — the vampire was pushed by a Frankenstein-type Promethean." Confirmed as sacrificing himself specifically to stop [[The Vampire]], not simply being drawn in alongside him as an accident of the ritual.
+
+- **Confirmed sentimental detail — still carries "Scraps":** The stuffed dog [[Phoebe|Phoebe/Ashley]] threw at him as he flew into the Abyss during the film's depicted climax. Dave's own words: "this Promethean probably still carries the little dog stuffy, Scraps, that Phoebe threw it as it flew into Limbo (in the movie)." The bond between the Promethean and Ashley is confirmed as the same bond he and Phoebe shared in the film.
     
 - **Divine Fire and Disquiet**: While the Divine Fire allowed him to mimic humanity from a distance, his proximity to humans (or any mortal creatures) led to [[Disquiet]]. His presence caused a subtle but growing sense of unease in those around him, which could escalate to fear or even rage if he stayed in one place too long. This effect extended to the environment, leaving behind areas of supernatural taint or “Wastelands” if he lingered.
     
@@ -43,3 +51,7 @@ aliases:
 - **Potential Survival in Another Realm**: Though he sacrificed himself by entering the portal, it’s plausible that the Promethean is still alive within whatever realm [[The Vampire]] attempted to access. If so, he may still be seeking the [[Pilgrimage]]’s steps, striving for humanity even in this other dimension.
     
 - **Lingering Disquiet and Taint**: The Promethean’s presence in [[California]] left behind traces of supernatural corruption, subtly marking the land as a place of unease. It’s possible that the [[Disquiet]] he generated lingers near the portal’s location, leaving a Wasteland-like effect that attracts other supernatural entities or amplifies existing [[Wyrm Taint|Wyrm-taint]].
+
+## Timeline
+- **(pre-existing, date unknown):** Core background, sacrifice, and legacy established.
+- **2025-06-03 (Monster Squad Sequel Idea):** A speculative "what if" idea has him returning as an ally rather than a foe — "he remembers" — via a hypothetical sequel brainstorm, not confirmed as canon.

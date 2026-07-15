@@ -1,0 +1,3 @@
+Grey-bearded, leather-clad biker — roughly twenty years older than [[Rudy Williams|Rudy]], with a similar depth of world-weary wisdom in his eyes. A regular at [[Shepherd's Inn]], quiet by nature, communicates mostly in grunts and raised glasses.
+
+A recurring "one more for the road" ritual with Rudy makes up most of the Inn's actual daily business. Recently became a grandfather. Trusted enough that Rudy leaves him watching the bar (with a shotgun under the counter, only half-joking about using it on anyone trying to steal a drink) when he needs to run an errand — Gil left a stack of bills on the counter and went home rather than actually cover for him, though, so how far that trust really extends is a little unclear.

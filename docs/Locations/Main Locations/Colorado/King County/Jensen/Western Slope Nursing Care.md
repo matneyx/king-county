@@ -1,1 +1,5 @@
-**Location:** [[Jensen, Colorado]]
+**Location:** [[Jensen, Colorado]] (spelled "Jenson" in [[The Prodigal Son (A King County Chronicle)|The Prodigal Son]]'s manuscript text — not reconciled)
+
+Has a no-locked-doors policy after hours; a bored security guard mans the front desk, more interested in his phone than his job. Nurses do rounds through the night trying to talk patients back to sleep.
+
+**The Prologue scene (Book 2):** [[Mickey Two-Dice|Mickey]], [[Missy Chamberlain|Missy]], and [[Harv]] drag an unconscious man named [[Allen]] in from the trunk of Mickey's Cadillac, past the front desk and the rounding nurses — none of whom react, whether through supernatural influence or simple late-night indifference isn't stated. They bring him to Room 35, shared with another patient, [[Frank]], and prop Allen into the room's chair. A young nurse who walks in on them (interrupting mid-task) has her demeanor visibly, supernaturally flattened from alarm to placid the moment Mickey looks at her — he then recruits her: "I've got a job for you." Purpose unstated on the page, but likely connected to the autopsy-table/bathtub construct Mickey and Harv are building in a separate warehouse (see [[Mickey Two-Dice]]).

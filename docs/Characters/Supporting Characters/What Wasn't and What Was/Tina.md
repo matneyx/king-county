@@ -1,0 +1,13 @@
+A woman [[Rudy Williams|Rudy]] was involved with roughly eight years before the events of [[What Wasn't and What Was]] — she lived in the same trailer park as [[Leanne]], near the barn where [[Jamie]] first came out of the Hedge. Confirmed to attend Caleb's candlelight vigil.
+
+**Confirmed reason Rudy was at the trailer park that night (per "Jane Doe Investigation Plausibility," full data export):** Dave's own phrasing, deliberately loose: "Rudy was in that trailer park 8 years ago to get his CB radio fixed or maybe a booty call — maybe both." Not narrowed further than that.
+
+**Relationship arc, resolved (2026-07-15, decided live, grill-canon session — supersedes the three previously-floated, never-narrowed options):** Started as a no-strings casual thing. Rudy started catching real feelings, and pulled away rather than let her in — not wanting to endanger her by bringing his past and the world's secrets into her life. He left her place at sunup after they'd been up late together; he doesn't sleep, so he was awake when he made the decision, and left before she woke rather than have the conversation. That's the state things were in when he found Jamie fleeing the Huntsman in the field outside — see [[Jamie]].
+
+**Ben, resolved (2026-07-15, decided live, grill-canon session — this is also the answer to [[Rudy Williams]]'s "Which Kid Does He Think Is His?" open question):** Tina is the mother of a son, [[Ben]], roughly the right age that Rudy briefly wonders if Ben is his own. Tina confirms Ben isn't Rudy's — and tells him that if he hadn't left, she'd never have met Ben's actual father, who's still around and "a pretty awesome guy." Ben is also the same kid who meets [[Jamie]] at the tree line — see his own page for that scene and the previously-flagged "orphaned name" contamination note it resolves.
+
+**Unresolved craft use:** floated as someone who could offhandedly destabilize Rudy's own memory of the past ("I remember Leanne from back then. I don't remember her ever being pregnant.") — not confirmed as adopted dialogue.
+
+## Timeline
+- **2025 ("Clue Evaluation Assistance," full data export):** Introduced as a vigil attendee and a piece of Rudy's unresolved past in the same trailer park; backstory options floated, none chosen.
+- **2026-07-15 (decided live, grill-canon session):** Confirmed the full relationship arc (no-strings turned real feelings, Rudy pulling away to protect her, leaving at sunup after she fell asleep) and that he found Jamie immediately after leaving her place. Follow-up same day: confirmed her son Ben, roughly Rudy's-kid age, and that Ben isn't his.

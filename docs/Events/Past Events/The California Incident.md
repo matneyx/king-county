@@ -6,7 +6,7 @@ aliases:
 
 **Location:** Small town in [[California]] (setting of [[The Monster Squad (Movie)]])
 
-**Date:** [[Rudy Williams|Rudy]]’s teenage years (specific date flexible)
+**Date:** 1986, confirmed — [[Rudy Williams|Rudy]] was 15 and [[Phoebe]] was 5.
 
 **Involved Parties:** [[The Monster Squad (group)|the Monster Squad]], [[Scary German Guy]], [[California Werewolf Pack|the Werewolf Pack]], Vampire and Followers (including a Promethean)
 
@@ -34,3 +34,31 @@ aliases:
 - **Phoebe’s Current Condition**: [[Phoebe]]’s trauma and early [[Awakening]] left her catatonic, trapped in a mental state that may still be linked to the portal’s energy. Her condition motivated [[Rudy Williams|Rudy]]’s move to [[King County, Colorado|King County]], where she resides in [[The Asylum]].
     
 - **Unresolved Role of the Promethean**: The vampire’s Promethean follower was destroyed, but traces of its energy or parts may remain. This creature’s twisted essence might still affect the location or even extend to [[King County, Colorado|King County]].
+
+- **Location detail**: The portal ritual took place in tunnels under the town — the specific pressure/wrongness of that moment is what [[Rudy Williams|Rudy]] recognizes again years later during the events of [[What Wasn't and What Was]].
+
+- **Why that town specifically:** Brainstormed (not fully confirmed) explanation for why the Vampire chose it — the town sits on a Locus, a ley-line crossing, or somewhere the Veil runs unusually thin, which is also why he needed physical protection ([[The Promethean|Frankenstein]] and the blood-bound [[California Werewolf Pack|Wolfman]]) rather than acting alone.
+
+- **Setting name — unresolved conflict:** The core setting has always just been "a small town in California." A separate brainstorm/drafting pass (a planned public "Lore post" series, narrated by adult Rudy) explored two real-world stand-ins instead: first **San Bruno, CA** (an explicit homage to the town that inspired the *Silent Hill* games), then retconned again to **Baton Rouge, Louisiana** (reportedly the real 1987 *Monster Squad* film's intended, unstated setting). Neither retcon has been reconciled with the plain "California town" framing used everywhere else in the vault — flagged rather than resolved. See [[Development Notes & Unresolved Questions]].
+
+- **Possible partial resolution, floated later (per "Vampire Population Ratio," full data export):** Dave has separately floated calling this event **"The Louisiana Incident"** instead of "The California Incident" to match the Baton Rouge setting, while leaving open the possibility that both terms simply coexist as competing pieces of hunter-network lore/slang for the same event, rather than one cleanly replacing the other. Still not a final decision — logged as an option, not a resolution.
+
+- **Vampire's target and clan, firmed up further:** Probably **Lasombra**, not just a generic powerful vampire. Wasn't opening a way to Limbo or the Underworld specifically — the target was **the Abyss**. Confirmed still trapped there roughly 30 years later, as of King County's "present day" — see [[The Vampire]] for the confirmed series endpoint (he and [[The Promethean]] return, and Mickey Two-Dice's eventual diablerie of him is tied directly to Rudy's own fate).
+
+- **Ashley/Phoebe's role, described with more agency in this telling:** This chat frames [[Phoebe|Ashley]] as the one who sealed the breach herself at around age six via a spontaneous Awakening — a more agency-forward framing than the vault's existing "used as a battery by Scary German Guy's ritual" description. Both may be true simultaneously (her own burst of power channeled *through* his ritual), but this hasn't been explicitly reconciled — flagging rather than picking one.
+
+- **Narrative frame (from the same "Lore post" brainstorm):** The story is told by an adult Rudy, late at night at [[Shepherd's Inn]] well after closing, to an unidentified listener sitting in deep shadow across the booth — someone whose drink empties over the course of the telling without Rudy ever seeing them take a sip. Never explained or flagged as intentionally supernatural, just an unresolved, faintly eerie detail baked into the frame. Conceived as "the first in a series of Lore posts" providing in-world background on King County's people, places, and events.
+
+- **Named members beyond Rudy and Phoebe:** **Sean** — Phoebe's older brother and the Monster Club's actual leader (see [[Sean]]). **Horace** — a summer neighborhood friend of Rudy's before either of them knew he'd be nicknamed "Fat Kid" at school; gets his own "level-up" moment fighting one of the Vampire's brides (see [[Horace]]). An earlier draft also included "Patrick" (plus a subplot about blackmailing Patrick's sister) and "Eugene," both deliberately cut — see [[Out of Scope Ideas]].
+
+- **Foreshadowing beat:** Before the abandoned-house discovery, [[Sean]] — whose father is a cop — tells the others about a break-in shooting at the police station the night before: a man shot while breaking in, his body missing afterward, and the responding ambulance driver found dead with no explanation. This is the eventual [[California Werewolf Pack|Wolfman]] surrendering himself, being shot, and regenerating before vanishing.
+
+- **No diary in this version:** Unlike the film, there's no German-language diary to translate — that means the reason the kids need [[Scary German Guy]] specifically has to come from somewhere else. Brainstormed, unresolved options: (1) German writing/symbols turn up directly in the Vampire's hideout; (2) the kids spot Scary German Guy himself scouting the hideout, since he may be a Mage *and* a Hunter, drawn there by the town's Locus.
+
+- **Aftermath — Rudy's recruitment:** After the incident, Rudy was specifically recruited into a Marine unit that deals with supernatural threats (brainstormed as similar to *Dogs of War* content or a Hunter: the Vigil Compact/Conspiracy) — directly because of what happened here, not as a coincidence of general military service. This unit is also the likeliest explanation, per this brainstorm, for why the Army showed up at the climax at all.
+
+## Timeline
+- **(pre-existing, date unknown):** Core incident summary established.
+- **2025-05-29 (Act Beat Refinement Help):** Tunnels-under-town location detail established, referenced as a sense-memory trigger for Rudy in [[What Wasn't and What Was]].
+- **2024-10-29 ("Ghosts of King County," the original setting-building chat that seeded this vault):** Date confirmed as 1986, with Rudy's and Phoebe's ages pinned down (15 and 5, respectively).
+- **2025 ("California Incident Brainstorming," full data export):** Locus/leyline rationale, the narrative frame device, Sean and Horace as named members, the police-station foreshadowing beat, the no-diary recruitment gap, and the post-incident military recruitment all established. Also the point where two different real-world setting retcons (San Bruno, then Baton Rouge) were explored and never reconciled with the vault's plain "California town."
