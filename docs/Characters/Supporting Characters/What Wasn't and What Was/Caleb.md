@@ -1,8 +1,6 @@
 [[Leanne]]'s son. Full name Caleb Thomas, age six. Believed to live in a trailer park beyond the plow line in [[King County, Colorado|King County]].
 
-**Surname discrepancy:** The [[Character-Driven Alternate Outline (What Wasn't and What Was)|Character-Driven alternate outline]] consistently calls him "Caleb Raines" instead of "Caleb Thomas" — used in both the inciting phone call and the climax speech, so likely not a one-off typo. Not reconciled with the established surname.
-
-**Age discrepancy:** The [[Mystery Crime Thriller Alternate Outline (What Wasn't and What Was)|Mystery Crime Thriller alternate outline]] describes him as five years old in its prologue draft, vs. the established age six elsewhere. Not reconciled.
+**Surname and age discrepancies, resolved (2026-07-15, decided live, grill-canon session):** The [[Character-Driven Alternate Outline (What Wasn't and What Was)|Character-Driven alternate outline]] called him "Caleb Raines," and the [[Mystery Crime Thriller Alternate Outline (What Wasn't and What Was)|Mystery Crime Thriller alternate outline]] gave his age as five in its prologue draft — both cascade-resolved along with the outline-primacy decision (see [[Development Notes & Unresolved Questions]]). "Caleb Thomas," age six, is the established, canonical name and age.
 
 **Confirmed reveal:** Caleb was never born — he's a grief-born thoughtform. His "disappearance" is the central mystery of [[What Wasn't and What Was]], but the true mystery is that he never existed as a physical child. The emotional truth and the narrative truth are meant to be the same: he didn't exist, but he mattered.
 

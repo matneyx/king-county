@@ -4,7 +4,7 @@ Contains the crook-path, a tangle of time-rotted hedge-thorns wrapped in glintin
 
 Brainstormed as a metaphor for grief in [[What Wasn't and What Was]] — tangled, consuming, filled with memories that aren't yours anymore.
 
-**Naming note:** The [[Mystery Crime Thriller Alternate Outline (What Wasn't and What Was)|Mystery Crime Thriller alternate outline]] calls this same kind of place "the Hollow" instead — possibly just an alternate name for the Hedge, possibly a distinct sub-location reached through an iron arch. Not reconciled.
+**Naming note, resolved (2026-07-15, decided live, grill-canon session):** The [[Mystery Crime Thriller Alternate Outline (What Wasn't and What Was)|Mystery Crime Thriller alternate outline]] called this same kind of place "the Hollow" instead — that outline is now confirmed non-canon (see [[Development Notes & Unresolved Questions]]), so "the Hedge" is the sole established name; "the Hollow" is retired terminology, not a distinct sub-location.
 
 ## Timeline
 - **2025-06-05 (Pulpify your Story):** Introduced as what [[Jamie]] fled through, pursued by [[The Huntsman]].

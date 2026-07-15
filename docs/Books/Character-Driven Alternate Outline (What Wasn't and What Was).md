@@ -1,6 +1,8 @@
 Another alternate pass at outlining [[What Wasn't and What Was]], this time using a "Character-Driven Plot Outline" framework (also from the Novel Factory), centered on Rudy's want vs. need. Distinct from both the main Act 1–3 outline and the [[Detective Noir Alternate Outline (What Wasn't and What Was)|Detective Noir alternate outline]].
 
-**User's own verdict on this one (important — treat differently from a pure exercise):** "This one isn't perfect for the story... but it revealed some things that I'll definitely include." So while the beat framework itself isn't being adopted wholesale, specific pieces below are more likely to be real intended material than pure what-if brainstorming — just not marked which ones specifically.
+**Status: confirmed non-canon as an outline (2026-07-15, decided live, grill-canon session).** Like the other three Novel Factory passes, this was a drafting exercise, not a competing draft — the main Act 1.1–3.6 outline is the sole canonical plan. That said, Dave's own verdict on this specific pass survives that decision:
+
+**User's own verdict on this one (important — treat differently from a pure exercise):** "This one isn't perfect for the story... but it revealed some things that I'll definitely include." So while the beat framework itself isn't canon, specific pieces below are more likely to be real intended material than pure what-if brainstorming — just not marked which ones specifically. The Huntsman resolution below, however, is retired along with the outline — see [[The Huntsman]].
 
 **Rudy's want vs. need (likely a keeper — strong, clean character-arc analysis):**
 - **Want:** Closure — solving the next case, believing each solved mystery brings him closer to silencing the ghosts of [[The California Incident]].
