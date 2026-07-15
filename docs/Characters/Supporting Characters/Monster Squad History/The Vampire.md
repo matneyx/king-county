@@ -6,7 +6,7 @@ aliases:
 
 **Role in Setting:** Antagonist in [[The California Incident|The Portal Incident]], dark influence with lingering effects on the supernatural landscape
 
-**Status:** Presumed destroyed (though some uncertainty may remain)
+**Status:** Presumed destroyed (though some uncertainty may remain). Per a 2025-06-03 speculative brainstorm (see [[Monster Squad Sequel (What-If Idea)]]), being pulled into the Abyss was never a full death — it was a banishment, and the Abyss itself may have "gravity," potentially sending him back with a purpose rather than simply expelling him. Speculative clan: not actually Dracula, but a Ventrue or similarly powerful vampire, possibly with Lasombra traits or ambitions, obsessed with final immortality — none of this confirmed as canon, just brainstormed.
 
 **Location of Origin:** [[California]] town (site of the Portal Incident)
 
@@ -39,3 +39,7 @@ aliases:
 - **Mysterious Deaths of Monster Squad Members**: [[Rudy Williams|Rudy]] suspects that the Vampire, or some influence he left behind, could be responsible for the deaths of [[The Monster Squad (group)|the other Monster Squad members]]. Whether this is due to a lingering curse or the work of other followers is unclear.
     
 - **Residual Connection to King County**: The no-man’s-land aura surrounding [[King County, Colorado|King County]] might echo the Vampire’s original intentions. His work with portal magic and [[Wyrm Taint]] could theoretically extend to this region, influencing supernatural boundaries.
+
+## Timeline
+- **(pre-existing, date unknown):** Core background, abilities, and legacy established.
+- **2025-06-03 (Monster Squad Sequel Idea):** Speculative banishment clarification and clan identity added via a "what if" sequel brainstorm — not confirmed as canon.

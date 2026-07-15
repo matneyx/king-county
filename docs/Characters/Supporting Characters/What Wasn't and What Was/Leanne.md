@@ -1,0 +1,33 @@
+Caleb's mother. Lives in a trailer park beyond the plow line in [[King County, Colorado|King County]] — poverty as a defining condition, not just backdrop.
+
+Lays out [[Caleb]]'s shoes every night facing the door after his disappearance; some mornings they've moved.
+
+Brainstormed (unconfirmed): the ground behind her trailer unit may once have been a churchyard, or there's an old well sealed in concrete back there — the trailer park isn't just poor, it's cursed.
+
+Townsfolk sense something is wrong but won't say it aloud — they just glance nervously at her.
+
+**Soft-edged memories (clue to [[Caleb]]'s true nature):** She never quite remembers her water breaking. She knows what the inside of the hospital looked like, but not the name of the nurse who stayed with her. She remembers the drive home, but not the first night. Reads as ordinary trauma memory — it is, just not the trauma anyone assumes.
+
+**The reveal:** When Rudy finally presents the evidence that Caleb was never born, Leanne is already crying before he finishes. She's known. The moment is meant to land as acceptance, not exposition. Her side of it: she tried to forget the accident, only remembered coming home with a baby who smiled, liked books, wore a hoodie with ears; over time the memories fought back and doubt crept in, and when she checked his empty room, she knew. Her line: "I didn't want to believe I could un-believe someone."
+
+**The real accident (confirmed mechanism — see [[Caleb]] and [[What Wasn't and What Was]]):** The "unregistered car" backstory beat is the actual accident. She borrowed the car to clear her head before the baby came, crashed it solo, and was admitted to a hospital as a Jane Doe — pregnant on arrival, no longer pregnant on discharge — before leaving without signing out. The real baby was cremated in an unmarked community plot. Caleb is the thoughtform her grief and belief built afterward.
+
+**Family:** Has a husband (unnamed) who works a factory night shift or drives long-haul trucking — hard labor that pays just enough. They live in a trailer that's clean and modest despite being beyond the plow line. They're offering a reward for Caleb's return — not huge, but it's all they have, meant to show they're serious.
+
+**Discrepancy to reconcile:** A later chat instead describes "Caleb's dad" as not currently together with Leanne — "maybe they were never more than a scared, fragile couple" — which conflicts with the stable "husband" framing above. Unclear if this is the same person (a since-separated partner) or if the two accounts simply don't agree yet.
+
+**Backstory beat:** Borrowed an unregistered car about six years ago to get to work when hers broke down (earlier framing) / to clear her head before the baby came (later, confirmed framing — this is the actual accident, see above) — no judgment attached in-story, just texture establishing her as one of the area's low-to-middle-class, "used-to-be-the-bad-kid" type residents.
+
+**Social isolation (established during Rudy's investigation):** Old friends say she quietly drifted away into motherhood after Caleb — not tragic, just a choice, as far as they knew. Neighbor quotes: "Cute kid. Kept to themselves." "I thought Leanne moved away, honestly." "We invited her once, but she never came."
+
+**Key lines:**
+- On Caleb's disappearance: "He was just… gone. One minute I was reading, the next minute the silence was too loud."
+- To Rudy, asking for help: "I heard you help people when the cops can't."
+- A clue she doesn't realize she's dropped: "I just want to find him again. Even if it's not exactly the way I remember."
+- At the vigil, correcting someone who calls Caleb "Jacob," instantly and automatically, not confused or angry — just fast and practiced: "His name is Caleb."
+
+## Timeline
+- **2025-06-05 (Pulpify your Story):** Introduced as Caleb's mother, trailer park beyond the plow line; nightly shoe ritual; brainstormed cursed-ground/well detail; townsfolk unease.
+- **2025-06-05 (Mystery Clues and Emotion):** Soft-edged birth memories and her reaction to the reveal established as part of the confirmed Caleb-was-never-born twist.
+- **2025-05-29 (Act Beat Refinement Help):** Husband, trailer, reward, unregistered-car backstory, social isolation, and key dialogue lines established via Act 1 outlining for [[What Wasn't and What Was]].
+- **2025-06-02 (Project Chronicle Summary):** Confirmed the unregistered car incident was the actual accident that caused the real pregnancy loss; her account of the slow-dawning realization established. Flagged a discrepancy between the earlier "husband" and this chat's "not together, scared fragile couple" framing of Caleb's dad.

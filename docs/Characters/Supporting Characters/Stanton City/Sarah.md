@@ -1,0 +1,3 @@
+[[Jeff Speno]]'s son's tutor — picks him up after school and watches him until Jeff or his wife can collect him. Barely eighteen. Per Jeff (pressed hard on the point by [[Rudy Williams|Rudy]], who's ruled out any inappropriate relationship with the boy): a lesbian, which Jeff offers as evidence nothing romantic was happening between her and either him or his son.
+
+Missing along with the boy — no one had heard from her, and Jeff initially assumed she'd simply taken him to a movie and would drop him off after. When nobody showed by 9pm, Jeff let himself into her house with the spare key from a fake rock; no one was there. Her current status/fate is unknown — not yet a confirmed suspect, victim, or accomplice.

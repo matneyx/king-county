@@ -6,7 +6,7 @@ aliases:
 
 **Location:** Small town in [[California]] (setting of [[The Monster Squad (Movie)]])
 
-**Date:** [[Rudy Williams|Rudy]]’s teenage years (specific date flexible)
+**Date:** 1986, confirmed — [[Rudy Williams|Rudy]] was 15 and [[Phoebe]] was 5.
 
 **Involved Parties:** [[The Monster Squad (group)|the Monster Squad]], [[Scary German Guy]], [[California Werewolf Pack|the Werewolf Pack]], Vampire and Followers (including a Promethean)
 
@@ -34,3 +34,10 @@ aliases:
 - **Phoebe’s Current Condition**: [[Phoebe]]’s trauma and early [[Awakening]] left her catatonic, trapped in a mental state that may still be linked to the portal’s energy. Her condition motivated [[Rudy Williams|Rudy]]’s move to [[King County, Colorado|King County]], where she resides in [[The Asylum]].
     
 - **Unresolved Role of the Promethean**: The vampire’s Promethean follower was destroyed, but traces of its energy or parts may remain. This creature’s twisted essence might still affect the location or even extend to [[King County, Colorado|King County]].
+
+- **Location detail**: The portal ritual took place in tunnels under the town — the specific pressure/wrongness of that moment is what [[Rudy Williams|Rudy]] recognizes again years later during the events of [[What Wasn't and What Was]].
+
+## Timeline
+- **(pre-existing, date unknown):** Core incident summary established.
+- **2025-05-29 (Act Beat Refinement Help):** Tunnels-under-town location detail established, referenced as a sense-memory trigger for Rudy in [[What Wasn't and What Was]].
+- **2024-10-29 ("Ghosts of King County," the original setting-building chat that seeded this vault):** Date confirmed as 1986, with Rudy's and Phoebe's ages pinned down (15 and 5, respectively).

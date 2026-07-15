@@ -1,5 +1,5 @@
 
-**Alias/Nickname**: None
+**Alias/Nickname**: Ashley (used in early brainstorming for [[What Wasn't and What Was]] — same character, treated as a naming inconsistency across sessions rather than a distinct person)
 
 **Role in Setting**: Catalyst of the original supernatural events, Rudy’s primary motivation for staying in King County
 
@@ -38,3 +38,16 @@
 - **Potential for Awakening**: Despite her catatonic state, Phoebe may still possess latent magical potential. Her early signs of [[Awakening]] hint that she could be capable of extraordinary feats if her consciousness were fully accessible.
     
 - **Sensitivity to Supernatural Activity**: Phoebe seems to sense changes in [[King County, Colorado]]'s supernatural environment, even if she’s unable to communicate them clearly. This sensitivity could be an asset if tapped into, though her catatonic state makes it difficult to do so.
+
+#### **Speculative "what if" — [[Monster Squad Sequel (What-If Idea)]]**
+A hypothetical, explicitly non-canon sequel idea imagines an adult Ashley/Phoebe who recovered enough to have a daughter of her own, called back into action when [[The Vampire]] returns. This directly conflicts with her established catatonic, institutionalized state above — treat it purely as a "what if," not a fact about her current condition.
+
+#### **In [[What Wasn't and What Was]] (referenced as Ashley)**
+- Rudy keeps a photo of her and a crayon drawing she made at age six — the drawing shows a monster being banished by a girl with light in her hands — locked in a drawer at [[Shepherd's Inn]], alongside a Monster Squad photo.
+- Flashback fragment: her voice, "Don't let go, Rudy!", swallowed by a void. (An earlier draft pass of the same scene used a different line instead: "You believe me, right?" — an alternate/discarded phrasing, not necessarily replaced for good.)
+- Rudy recognizes the pressure of broken reality (e.g. the name-flicker at Caleb's vigil) as the same feeling from "the tunnels under town, before the portal opened — before Ashley screamed and the world tore open."
+
+## Timeline
+- **(pre-existing, date unknown):** Core background — Monster Squad member, Awakening potential, portal ritual battery, catatonic aftermath, bond with the Promethean — established.
+- **2025-05-29 (Act Beat Refinement Help):** Referenced under the name "Ashley" in Act 1 outlining for [[What Wasn't and What Was]]; drawer keepsakes and the "Don't let go, Rudy!" line established (an earlier draft pass used "You believe me, right?" instead).
+- **2025-06-03 (Monster Squad Sequel Idea):** Speculative "what if" adult/recovered version noted — explicitly non-canon, conflicting with her established current condition.

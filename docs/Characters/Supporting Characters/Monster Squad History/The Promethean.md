@@ -43,3 +43,7 @@ aliases:
 - **Potential Survival in Another Realm**: Though he sacrificed himself by entering the portal, it’s plausible that the Promethean is still alive within whatever realm [[The Vampire]] attempted to access. If so, he may still be seeking the [[Pilgrimage]]’s steps, striving for humanity even in this other dimension.
     
 - **Lingering Disquiet and Taint**: The Promethean’s presence in [[California]] left behind traces of supernatural corruption, subtly marking the land as a place of unease. It’s possible that the [[Disquiet]] he generated lingers near the portal’s location, leaving a Wasteland-like effect that attracts other supernatural entities or amplifies existing [[Wyrm Taint|Wyrm-taint]].
+
+## Timeline
+- **(pre-existing, date unknown):** Core background, sacrifice, and legacy established.
+- **2025-06-03 (Monster Squad Sequel Idea):** A speculative "what if" idea has him returning as an ally rather than a foe — "he remembers" — via a hypothetical sequel brainstorm, not confirmed as canon.

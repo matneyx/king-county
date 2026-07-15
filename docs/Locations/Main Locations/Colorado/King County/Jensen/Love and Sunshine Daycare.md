@@ -1,1 +1,3 @@
 **Location:** [[Jensen, Colorado]]
+
+Called "Sunshine and Rainbows Day Care" in [[The Prodigal Son (A King County Chronicle)|The Prodigal Son]]'s Prologue text — presumably the same place, name not reconciled. [[Western Slope Nursing Care]] sits in the same lot/right next door; Mickey parks his Cadillac in the unlit space behind the daycare (dark enough, on the night in question, to be "darker than the inside of a coal miner's asshole") before dragging [[Allen]] next door into the nursing home.

@@ -44,4 +44,15 @@ Free Adventure
 - **Conflict of Loyalties**: Amina could be faced with a choice between her employer's objectives and her growing understanding of Rudy’s plight and the true nature of the supernatural forces at play.
 - **Exploration of Secrets**: Amina’s quest for hidden knowledge could lead to larger mysteries involving the supernatural elements in King County, especially if she begins to realize the consequences of her employer's interests.
 
+## What Actually Happened (played scene, 2024-10-30)
+**Appearance:** Dark brown, almost black hair; brown skin with a slight olive hint; simple white button-down blouse, clean khaki slacks, high-heel pumps; oversized sunglasses removed on entering.
+
+Walked into [[Shepherd's Inn]] just as [[Bramble Thorne|Bram]] was leaving and right after Rudy played the [[Audio Cassette Transcript|cassette]]. Rudy didn't recognize her at first — she looks exactly as she did nearly 20 years earlier during the Gulf War, not a day older, which he immediately called out as impossible. She confirmed it's really her, attributing it to "unconventional experiences" since they last met, without elaborating. They shared a toast ("To old friends... and old secrets") before she explained unnamed "employers" sent her specifically to find Rudy — she doesn't know what they want with him, only that they believe he knows something. Rudy told her (truthfully, as far as he knows) that he has nothing worth what it cost them to find him — everyone from his unit besides [[Aaron Mabey|Doc]] died in the Gulf, and the six months he spent hunting Doc after was pure manhunt, not research. She accepted this with visible frustration, said she'd be staying in Stanton City for at least a few days, and left her business card with Rudy before departing with a parting line: "It's a darker world than it used to be."
+
+Shortly after she left, Rudy received a text from a blocked number: *"We know you're in town, Rudy. It's time to talk."* Not confirmed to be from Amina or her employers — could be unrelated to her visit entirely. See [[Development Notes & Unresolved Questions]].
+
 ![[Doctor Amina Kahn.webp]]
+
+## Timeline
+- **2024-10-29 ("Ghosts of King County," character creation):** Created via Adventure Crafter/Mythic rolls (Scientist/Subverter Scholar, Young, War Place background, Free Adventure motivation, explicitly not a past romantic interest of Rudy's) as an "A New Enemy"-type NPC.
+- **2024-10-30 (played scene):** Introduced in person at Shepherd's Inn; physical description, toast, business card, and the unexplained "we know you're in town" text all established.

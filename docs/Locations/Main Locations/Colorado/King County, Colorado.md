@@ -2,7 +2,7 @@
 aliases:
   - King County
 ---
-**Location:** Western Slope, Colorado Rocky Mountains; based on real life cities such as Montrose, Delta, Grand Junction, Avon, Vail, and Crescent Junction (Utah).
+**Location:** Western Slope, Colorado Rocky Mountains; based on real life cities such as Montrose, Delta, Grand Junction, Avon, Vail, and Crescent Junction (Utah). Per [[The Prodigal Son (A King County Chronicle)|The Prodigal Son]], Rudy's own working sense of the county's boundaries runs "effectively from Stanton City to Stockton, over to Jackson Ridge, down to Shepherd Junction, and back to Stanton City."
 
 **Reputation:** Known as a supernatural no-man’s-land, with rumors and local legends suggesting that something dark and dangerous lingers within its boundaries.
 
@@ -15,6 +15,10 @@ aliases:
 - **Geography and Terrain**: King County encompasses rugged mountains, dense forests, isolated valleys, and the occasional abandoned town or mining site. The area’s natural beauty is juxtaposed with an eerie sense of isolation, especially in its more remote areas.
     
 - **Atmosphere**: There’s a pervasive feeling of dread in King County, even among its human residents. Locals speak of the “silent places” where strange sounds and shadows appear without warning, and most avoid the wilderness after dark.
+
+- **Core visual/moral design rule:** Everything in King County is a little darker and a little dirtier than real life — both literally (dimmer light, long shadows, dust on every surface, grime in every corner) and morally (trust is scarce, choices carry heavy consequences). Because of this baseline, places that are actually bright, clean, and shiny — like [[LeGrande Station]] — read as unsettling rather than welcoming: an almost ethereal glow that feels alien against the county's decay, as if the cleanliness is hiding something.
+
+- **Setting technology level (per the original "Ghosts of King County" solo game, set ~2014 in-fiction):** Deliberately behind real-world 2014 — closer to an early-2000s feel. No smartphones exist at all (the setting predates the 2007 iPhone). The Motorola Razr V3 is cutting-edge; [[Rudy Williams|Rudy]] carries an old Nokia 3310. Landlines are still the most reliable form of communication, especially in rural areas. Home internet is roughly a decade behind (dial-up/slow DSL common). Physical media (VHS, DVDs, CDs) remains standard; streaming doesn't exist yet in-setting.
     
 - **Local Landmarks**:
     
@@ -51,3 +55,7 @@ aliases:
 * [[Shepherd Junction, Colorado|Shepherd Junction]]
 	* [[Shepherd's Inn]]
 		* Owner / Operator: [[Rudy Williams]]
+
+## Timeline
+- **(pre-existing, date unknown):** Core setting established — no-man's-land reputation, physical description, supernatural significance, local legends.
+- **2024-10-29 ("Ghosts of King County," the original setting-building chat that seeded this vault):** Core visual/moral design rule (darker and dirtier than real life, clean places feel alien) and the setting's technology level (no smartphones, Nokia 3310, dial-up internet, ~2014 in-fiction) established.
