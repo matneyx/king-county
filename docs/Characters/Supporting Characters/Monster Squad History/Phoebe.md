@@ -1,6 +1,10 @@
 
 **Alias/Nickname**: Ashley (used in early brainstorming for [[What Wasn't and What Was]] — same character, treated as a naming inconsistency across sessions rather than a distinct person)
 
+**Naming preference, confirmed (2026-07-16, decided live) — vault bookkeeping only, not a finished-manuscript decision:** Now that [[Ashley]] exists as her own, unrelated named character in the Clara McKenzie material, use "Phoebe" throughout the vault's own prose and cross-references going forward, even when a source chat used "Ashley." The alias itself stays documented above as real naming history; only the loose vault-wide shorthand changes. Direct quotes that use "Ashley" (Dave's own words, drafted dialogue) are left verbatim rather than rewritten.
+
+**What she's actually called in the published book is still open (2026-07-16):** Dave isn't sold on "Phoebe" for the finished work either — since the real *Monster Squad* character she's modeled on is also named Phoebe, using it risks making the spinoff too obvious, which was the entire reason "Ashley" got floated as a rename in the first place (see [[The Monster Squad (Movie)]]). So both candidate names have the same problem from opposite directions: "Ashley" collides with an unrelated character in this vault, "Phoebe" is on-the-nose about the source material. Treat the character's real published name as undecided — a decision for later, not something this session's vault cleanup settled.
+
 **Role in Setting**: Catalyst of the original supernatural events, Rudy’s primary motivation for staying in King County
 
 **Based in**: Asylum in [[King County, Colorado]]
@@ -46,7 +50,7 @@
 - **Sensitivity to Supernatural Activity**: Phoebe seems to sense changes in [[King County, Colorado]]'s supernatural environment, even if she’s unable to communicate them clearly. This sensitivity could be an asset if tapped into, though her catatonic state makes it difficult to do so.
 
 #### **Speculative "what if" — [[Monster Squad Sequel (What-If Idea)]]**
-A hypothetical, explicitly non-canon sequel idea imagines an adult Ashley/Phoebe who recovered enough to have a daughter of her own, called back into action when [[The Vampire]] returns. This directly conflicts with her established catatonic, institutionalized state above — treat it purely as a "what if," not a fact about her current condition.
+A hypothetical, explicitly non-canon sequel idea imagines an adult Phoebe who recovered enough to have a daughter of her own, called back into action when [[The Vampire]] returns. This directly conflicts with her established catatonic, institutionalized state above — treat it purely as a "what if," not a fact about her current condition.
 
 **Meta/craft note — modeled on a real film:** Phoebe is explicitly and openly modeled on the 1987 movie *The Monster Squad*, with "Ashley" (her established alias) chosen specifically after the actress who played the film's Phoebe. See [[The Monster Squad (Movie)]] for the in-universe propaganda-film convention and the confirmed callback-line device, including a candidate line for her: "He's not a monster."
 
@@ -61,3 +65,4 @@ A hypothetical, explicitly non-canon sequel idea imagines an adult Ashley/Phoebe
 - **2025-06-03 (Monster Squad Sequel Idea):** Speculative "what if" adult/recovered version noted — explicitly non-canon, conflicting with her established current condition.
 - **2025 ("Character Name Considerations," full data export):** Confirmed the direct Monster Squad (1987 film) modeling and the "Ashley" naming origin; see [[The Monster Squad (Movie)]].
 - **2025 ("Astrology Birthday Guess," full data export):** Confirmed family background (parents' divorce, brother's death), Wild Mage archetype, and her purely off-page/photograph narrative function in [[What Wasn't and What Was]].
+- **2026-07-16 (decided live):** Dave confirmed "Phoebe" as the vault's preferred name in loose prose/cross-references going forward, to avoid confusion with the unrelated [[Ashley]] character in the Clara McKenzie material. Updated the loose "Ashley" references across ~12 other pages that weren't quoting source material or documenting the alias itself.
