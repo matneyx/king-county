@@ -14,8 +14,11 @@
 
 **The Dolls:** Kayla compulsively fleshcrafts/bonecrafts victims into near-perfect copies of herself, refining the technique over time — no two sculptures ever come out exactly the same, which drives her ongoing derangement. Mickey disposes of most of these victims before they're embraced; he's embraced and diablerized a few himself. The Dolls are, in effect, things Mickey does to Kayla's stand-ins because he can't (yet) do them to her directly. See [[Spanish Dolls]].
 
+**Confirmed drafted scene and dialogue (per "Bridging Story Gaps," full data export):** While working on a new Doll — who looks like inert clay until she starts squirming and whimpering, prompting Mickey to numb her mind again — Kayla needles Mickey about his own fleshcraft limits: he's good at it but will never be a master, because he only ever works on "what will be seen" and never "paints all the way to the edge of the canvas." She asks to play with his face; when he declines, she needles him with "Angel lets me" (see [[Angel de la Vega]]) — to which Mickey retorts, "Yeah, but then I have to clean up after you when he leaves." Neither pushes it further.
+
 **The Angel arc and her death:** After a Blood Hunt was called on Mickey (for an unrelated diablerie), Kayla helped fleshcraft him into a new identity, **[[Angel de la Vega]]**, to help him escape it. She wants Mickey forgotten forever, and ultimately conspires with Angel to destroy Mickey — accepting that this destroys Angel too. Mickey remembers the betrayal and kills her for it. Whether he diablerizes her when he does is undecided ("I don't know if he'll diablerize her, yet" — Dave).
 
 ## Timeline
 - **(pre-existing, date unknown):** Introduced as Mickey's "girlfriend," a fellow vampire keeping a low profile in King County.
 - **2025 ("Vampire Population Ratio," full data export):** Full corrected backstory surfaced — the "girlfriend" framing revealed as cover for a diablerie-and-possession dynamic, plus her origin, the Dolls, her role in the Angel arc, and her eventual death at Mickey's hands.
+- **2025 ("Bridging Story Gaps," full data export):** Confirmed drafted dialogue with Mickey over his fleshcraft limits and Angel's face-privileges, plus the "clay girl" Doll-in-progress scene beat.
