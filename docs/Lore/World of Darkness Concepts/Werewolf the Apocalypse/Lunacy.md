@@ -1,0 +1,8 @@
+The standard Werewolf: the Apocalypse/Forsaken concept that mortals can't hold onto the truth of having seen a werewolf shift — this setting's version leans on real-world folklore rather than pure game mechanics.
+
+**Belief-based reframing (per "Werewolves and Spirit Worlds," full data export):** Folkloric precedent exists outside White Wolf's own cosmology — classical "lunatic" derives from lunar-madness beliefs (Roman/Greek); Celtic and Slavic tales hold that witnessing a shapeshifter's true transformation can cause memory loss, illness, or spiritual damage; Slavic Rusalka-adjacent taboos say speaking of what you saw invites forgetting or a curse, and you're only vulnerable if you believed in it long enough to remember it in the first place. **The reframe this suggests, not yet adopted as settled canon:** Lunacy might not be a werewolf power at all — it could be a side effect of belief systems colliding, which would fold it directly into this setting's established collective-belief mechanics (see [[What Wasn't and What Was]] for the clearest existing example of belief governing what persists and what fades).
+
+**Status:** Offered as a thematically clean option during open Book 3+ brainstorming that Dave later set aside without picking it up ("I don't need to figure Book 3 out until Book 2 is done") — not rejected outright the way the Fetch/Rusting-Place plot was, just untouched. Worth revisiting if a future book needs Lunacy to actually function on the page.
+
+## Timeline
+- **2025 ("Werewolves and Spirit Worlds," full data export):** Folklore sourcing and the belief-based reframing floated during speculative Book 3+ brainstorming; not picked up or rejected, just left on the table.
