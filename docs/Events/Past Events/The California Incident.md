@@ -20,7 +20,7 @@ aliases:
     
 - **Monster Squad Intervention**: The only ones who uncovered the full scope of the vampire’s plan were Rudy and his friends, later dubbed [[The Monster Squad (group)|the Monster Squad]] With the help of [[Scary German Guy]], an experienced mage, they pieced together the vampire’s ritual and prepared to intervene.
     
-- **The Ritual and Phoebe’s Awakening**: [[Scary German Guy]] harnessed [[Phoebe]]'s early [[Awakening]] potential to close the portal, using her energy as a “battery.” Though successful, this act traumatized Phoebe, leading to her current catatonic state. The ritual ended the vampire’s immediate threat but may have left residual energy in the area, creating a lasting scar on the supernatural fabric of the town.
+- **The Ritual and Phoebe's Awakening (resolved 2026-07-16, decided live, grill-canon session — see below):** [[Phoebe]] sealed the portal herself via a spontaneous [[Awakening]], with [[Scary German Guy]] genuinely present and involved but not the source of the power. Though successful, this act traumatized Phoebe, leading to her current catatonic state. The ritual ended the vampire's immediate threat but may have left residual energy in the area, creating a lasting scar on the supernatural fabric of the town.
     
 
 ---
@@ -43,7 +43,7 @@ aliases:
 
 - **Vampire's target and clan, firmed up further:** Probably **Lasombra**, not just a generic powerful vampire. Wasn't opening a way to Limbo or the Underworld specifically — the target was **the Abyss**. Confirmed still trapped there roughly 30 years later, as of King County's "present day" — see [[The Vampire]] for the confirmed series endpoint (he and [[The Promethean]] return, and Mickey Two-Dice's eventual diablerie of him is tied directly to Rudy's own fate).
 
-- **Phoebe's role, described with more agency in this telling:** This chat frames [[Phoebe]] as the one who sealed the breach herself at around age six via a spontaneous Awakening — a more agency-forward framing than the vault's existing "used as a battery by Scary German Guy's ritual" description. Both may be true simultaneously (her own burst of power channeled *through* his ritual), but this hasn't been explicitly reconciled — flagging rather than picking one.
+- **Phoebe's role, resolved (2026-07-16, decided live, grill-canon session):** Spontaneous Awakening — Phoebe sealed the breach herself, at around age six. Scary German Guy was genuinely there and involved, but she did the actual work; the older "used as a battery for his ritual" framing is retired.
 
 - **Narrative frame (from the same "Lore post" brainstorm):** The story is told by an adult Rudy, late at night at [[Shepherd's Inn]] well after closing, to an unidentified listener sitting in deep shadow across the booth — someone whose drink empties over the course of the telling without Rudy ever seeing them take a sip. Never explained or flagged as intentionally supernatural, just an unresolved, faintly eerie detail baked into the frame. Conceived as "the first in a series of Lore posts" providing in-world background on King County's people, places, and events.
 
@@ -51,7 +51,7 @@ aliases:
 
 - **Foreshadowing beat:** Before the abandoned-house discovery, [[Sean]] — whose father is a cop — tells the others about a break-in shooting at the police station the night before: a man shot while breaking in, his body missing afterward, and the responding ambulance driver found dead with no explanation. This is the eventual [[California Werewolf Pack|Wolfman]] surrendering himself, being shot, and regenerating before vanishing.
 
-- **No diary in this version:** Unlike the film, there's no German-language diary to translate — that means the reason the kids need [[Scary German Guy]] specifically has to come from somewhere else. Brainstormed, unresolved options: (1) German writing/symbols turn up directly in the Vampire's hideout; (2) the kids spot Scary German Guy himself scouting the hideout, since he may be a Mage *and* a Hunter, drawn there by the town's Locus.
+- **No diary in this version, resolved (2026-07-16, decided live, grill-canon session):** Unlike the film, there's no German-language diary to translate. Instead, [[Scary German Guy]] was already independently investigating the Vampire's house when the kids arrived there on their own. Dave's best reconstruction, not stated with full certainty: the kids didn't so much need his help as insist they were now part of it — either he begrudgingly worked with them, or the two groups worked separately and got in each other's way.
 
 - **Aftermath — Rudy's recruitment:** After the incident, Rudy was specifically recruited into a Marine unit that deals with supernatural threats (brainstormed as similar to *Dogs of War* content or a Hunter: the Vigil Compact/Conspiracy) — directly because of what happened here, not as a coincidence of general military service. This unit is also the likeliest explanation, per this brainstorm, for why the Army showed up at the climax at all.
 
