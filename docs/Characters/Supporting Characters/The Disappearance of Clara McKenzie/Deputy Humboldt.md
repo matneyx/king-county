@@ -1,6 +1,6 @@
 Young King County Sheriff's deputy, recently transferred from Nevada.
 
-**Name inconsistency in the source material:** called "Deputy Holcomb" once, then "Deputy Humboldt" for the rest of the session — not reconciled, pick one.
+**Name, resolved (2026-07-16, decided live, grill-canon session):** Humboldt. The one-off "Holcomb" was most likely a misremembering — Dave's own or ChatGPT's — not a real alternate name.
 
 Responded to [[Rudy Williams|Rudy]]'s deer collision on the way to [[Stanton City, Colorado|Stanton City]]. Knew Rudy's name on sight despite Rudy not recognizing him and Humboldt never having been to [[Shepherd's Inn]] — unexplained, and it unsettled Rudy enough to note his name for later. [[Detective Marcus Cole|Marcus Cole]] confirmed Humboldt is new to the department and shouldn't have any obvious reason to know Rudy.
 
@@ -18,3 +18,4 @@ Turned up again while Rudy and [[Amber]] waited for [[Johnny]]'s smoke break, cl
 ## Timeline
 - **2024-10-30 ("Ghosts of King County"):** Introduced at the deer-collision traffic stop.
 - **2024-11-07 ("Ghosts of King County," continued):** Follow-up confrontation at the church; loitering pattern and the Marines/family-grudge theory established.
+- **2026-07-16 (decided live, grill-canon session):** Name settled as Humboldt; "Holcomb" logged as a misremembering, not a real alternate.

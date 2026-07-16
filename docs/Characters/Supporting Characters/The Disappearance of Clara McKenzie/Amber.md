@@ -1,6 +1,8 @@
 Bartender at [[Lucky's Place]], a dive bar in [[Jackson Ridge, Colorado|Jackson Ridge]]. Early 20s.
 
-**Confirmed by Dave directly (not yet in any dated chat transcript): Amber is the "she" from [[Rudy Williams|Rudy]]'s will/letter to [[Nathan Hale|Hale]]** — the person who eventually takes over (or helps take a load off) [[Shepherd's Inn]], whether because Rudy dies or just needs a break. This resolves the long-standing "who is she" open question — see [[Development Notes & Unresolved Questions]], [[Rudy Williams]], and [[Nathan Hale]].
+**Confirmed by Dave directly: Amber is the "she" from [[Rudy Williams|Rudy]]'s will/letter to [[Nathan Hale|Hale]]** — the person who eventually takes over (or helps take a load off) [[Shepherd's Inn]], whether because Rudy dies or just needs a break. This resolves the long-standing "who is she" open question — see [[Development Notes & Unresolved Questions]], [[Rudy Williams]], and [[Nathan Hale]].
+
+**The mechanism, confirmed (2026-07-16, decided live, grill-canon session):** The Clara McKenzie case is what actually gets her there. Investigating alongside Rudy exposes her to the supernatural directly and proves to him she can handle it — she doesn't flinch, doesn't back out even after being warned ("I'm in, Rudy. Weird or not."). Combined with her existing bar experience at [[Lucky's Place]], Rudy hires her to cover shifts at Shepherd's Inn — practically useful on its own, but it also solves a real problem for him: he no longer has to invent a story for coming home covered in blood, his own or something else's, since she already knows what he actually does.
 
 ## What Actually Happened (played scene, "Ghosts of King County")
 Found by Rudy at [[Zack Sawyer]]'s ransacked trailer, also looking for Zack — she'd come to check on him after he stopped answering his phone and missing work. Wary at first (hand near a gun in her jacket pocket), she warms up once Rudy mentions Danny sent him. Practical, loyal, and not easily spooked: agrees to help investigate despite Rudy's warning that things might get supernatural and that her life "will never be the same" if she comes along. Her answer: "I'm in, Rudy. Weird or not."
@@ -20,3 +22,4 @@ Carries a gun and says she'll use it if it comes to protecting Zack or herself �
 ## Timeline
 - **2024-10-29/2024-11-07 ("Ghosts of King County"):** Introduced in play at Zack's trailer; full backstory with Zack, the party-night account, and Zack's journal established.
 - **2026-07-14 (relayed directly by Dave, source chat not yet reviewed):** Confirmed as the "she" who inherits/takes over Shepherd's Inn in Rudy's eventual will.
+- **2026-07-16 (decided live, grill-canon session):** Reaffirmed as Amber, not Jenn, with the actual hiring mechanism confirmed — the Clara case proves her capability, and Rudy hires her on at the Inn.
