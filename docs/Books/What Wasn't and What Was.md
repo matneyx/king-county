@@ -112,7 +112,7 @@ Design goal: let the reader guess that Caleb was never born before it's confirme
 
 **1.2 – A Day in the Life:** Rudy handles mundane tasks at [[Shepherd's Inn]] (the "Good enough" duct-tape repair, see Symbolism/Motifs), wraps up a minor, low-stakes case (establishing he's always working), then heads to [[LeGrande Station]] — grumbles with [[Nathan Hale]], chats with [[Jenn-with-two-Ns|Jenn]], buys cigarettes reluctantly (avoidance). A school bus rolls by; a family leaves the diner. Rural, sleepy, but haunted.
 
-**1.3 – A Glimpse at Theme:** Jenn: "You're good with kids, you know." Rudy: "I don't take kid cases." Beat. "Not usually." Alone at the Inn, Rudy opens his keepsake drawer (Monster Squad photo, [[Phoebe|Ashley]]'s crayon drawing) — flashback fragment: "Don't let go, Rudy!" He sees a kid outside, same age, flinches; a light fixture pops and he doesn't fix it.
+**1.3 – A Glimpse at Theme:** Jenn: "You're good with kids, you know." Rudy: "I don't take kid cases." Beat. "Not usually." Alone at the Inn, Rudy opens his keepsake drawer (Monster Squad photo, [[Phoebe]]'s crayon drawing) — flashback fragment: "Don't let go, Rudy!" He sees a kid outside, same age, flinches; a light fixture pops and he doesn't fix it.
 
 **1.4 – The Call to Adventure:** [[Leanne]] (possibly with her husband) comes to the Inn — "I heard you help people when the cops can't." Caleb's been missing three days. Her slip: "I just want to find him again. Even if it's not exactly the way I remember." Rudy repeats his kid-cases line, takes her photo of Caleb, opens the drawer again ("More eyes are better. That's all this is."). The Act 1.2 repair collapses — this time he doesn't fix it.
 

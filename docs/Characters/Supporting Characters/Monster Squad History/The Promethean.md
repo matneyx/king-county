@@ -22,7 +22,7 @@ aliases:
 
 - **Corrected mechanism — he pushed the Vampire in, not the other way around (per "Civilian Rifle Equivalents," full data export):** Dave's own direct correction of an earlier framing: "the Abyssal tear didn't pull the vampire in — the vampire was pushed by a Frankenstein-type Promethean." Confirmed as sacrificing himself specifically to stop [[The Vampire]], not simply being drawn in alongside him as an accident of the ritual.
 
-- **Confirmed sentimental detail — still carries "Scraps":** The stuffed dog [[Phoebe|Phoebe/Ashley]] threw at him as he flew into the Abyss during the film's depicted climax. Dave's own words: "this Promethean probably still carries the little dog stuffy, Scraps, that Phoebe threw it as it flew into Limbo (in the movie)." The bond between the Promethean and Ashley is confirmed as the same bond he and Phoebe shared in the film.
+- **Confirmed sentimental detail — still carries "Scraps":** The stuffed dog [[Phoebe]] threw at him as he flew into the Abyss during the film's depicted climax. Dave's own words: "this Promethean probably still carries the little dog stuffy, Scraps, that Phoebe threw it as it flew into Limbo (in the movie)." This bond is confirmed as the same one depicted between the Promethean and Phoebe in the film.
     
 - **Divine Fire and Disquiet**: While the Divine Fire allowed him to mimic humanity from a distance, his proximity to humans (or any mortal creatures) led to [[Disquiet]]. His presence caused a subtle but growing sense of unease in those around him, which could escalate to fear or even rage if he stayed in one place too long. This effect extended to the environment, leaving behind areas of supernatural taint or “Wastelands” if he lingered.
     
