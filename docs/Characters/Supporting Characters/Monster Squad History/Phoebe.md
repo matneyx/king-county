@@ -3,7 +3,7 @@
 
 **Naming preference, confirmed (2026-07-16, decided live) — vault bookkeeping only, not a finished-manuscript decision:** Now that [[Ashley]] exists as her own, unrelated named character in the Clara McKenzie material, use "Phoebe" throughout the vault's own prose and cross-references going forward, even when a source chat used "Ashley." The alias itself stays documented above as real naming history; only the loose vault-wide shorthand changes. Direct quotes that use "Ashley" (Dave's own words, drafted dialogue) are left verbatim rather than rewritten.
 
-**What she's actually called in the published book is still open (2026-07-16):** Dave isn't sold on "Phoebe" for the finished work either — since the real *Monster Squad* character she's modeled on is also named Phoebe, using it risks making the spinoff too obvious, which was the entire reason "Ashley" got floated as a rename in the first place (see [[The Monster Squad (Movie)]]). So both candidate names have the same problem from opposite directions: "Ashley" collides with an unrelated character in this vault, "Phoebe" is on-the-nose about the source material. Treat the character's real published name as undecided — a decision for later, not something this session's vault cleanup settled.
+**What she's actually called in the published book:** Sticking with "Phoebe" for now (2026-07-16, decided live, grill-canon session) — not fully re-litigated, but no longer treated as urgently open either. The underlying tension is still on record: "Phoebe" risks being on-the-nose about the *Monster Squad* modeling (see [[The Monster Squad (Movie)]]), which is the same reason "Ashley" was floated as a rename in the first place — but "Ashley" collides with an unrelated character elsewhere in this vault. If a better final name surfaces later, it's still fair game to revisit.
 
 **Role in Setting**: Catalyst of the original supernatural events, Rudy’s primary motivation for staying in King County
 
@@ -12,7 +12,7 @@
 
 - **Early Life and Connection to the Monster Squad**: Phoebe was a young child during the events in [[California]] that inspired [[The Monster Squad (Movie)]]. She was the youngest member of the group and had a naturally high affinity for the supernatural, showing early signs of [[Awakening]] that made her critical in closing the portal.
 
-- **Role in the Portal Ritual**: [[Scary German Guy]], an older mage, used Phoebe as a magical “battery” to power his ritual and close the portal. Her raw magical potential at such a young age was the deciding factor, though the experience left deep, lasting trauma.
+- **Role in the Portal Ritual, resolved (2026-07-16, decided live, grill-canon session):** Phoebe sealed the portal herself via a spontaneous Awakening — [[Scary German Guy]], an older mage, was genuinely present and involved, but not the source of the power. The earlier "used as his battery" framing is retired. Her raw magical potential at such a young age was the deciding factor, though the experience left deep, lasting trauma.
 
 - **Confirmed family background (per "Astrology Birthday Guess," full data export):** Awakened as a Mage in kindergarten — "way too damn early." Her parents divorced shortly after her Awakening. Had a brother who died when she was a teenager, under circumstances she still doesn't know. Confirmed Mage archetype: "more D&D Wild Mage than Technocracy" (Dave's own phrasing) — an uncontrolled/untrained caster, not an institutional or disciplined one.
 
@@ -60,9 +60,11 @@ A hypothetical, explicitly non-canon sequel idea imagines an adult Phoebe who re
 - Rudy recognizes the pressure of broken reality (e.g. the name-flicker at Caleb's vigil) as the same feeling from "the tunnels under town, before the portal opened — before Ashley screamed and the world tore open."
 
 ## Timeline
-- **(pre-existing, date unknown):** Core background — Monster Squad member, Awakening potential, portal ritual battery, catatonic aftermath, bond with the Promethean — established.
+- **(pre-existing, date unknown):** Core background — Monster Squad member, Awakening potential, portal-sealing role (originally framed as a ritual "battery"), catatonic aftermath, bond with the Promethean — established.
 - **2025-05-29 (Act Beat Refinement Help):** Referenced under the name "Ashley" in Act 1 outlining for [[What Wasn't and What Was]]; drawer keepsakes and the "Don't let go, Rudy!" line established (an earlier draft pass used "You believe me, right?" instead).
 - **2025-06-03 (Monster Squad Sequel Idea):** Speculative "what if" adult/recovered version noted — explicitly non-canon, conflicting with her established current condition.
 - **2025 ("Character Name Considerations," full data export):** Confirmed the direct Monster Squad (1987 film) modeling and the "Ashley" naming origin; see [[The Monster Squad (Movie)]].
 - **2025 ("Astrology Birthday Guess," full data export):** Confirmed family background (parents' divorce, brother's death), Wild Mage archetype, and her purely off-page/photograph narrative function in [[What Wasn't and What Was]].
+- **2026-07-16 (decided live, grill-canon session):** Portal-sealing role resolved as her own spontaneous Awakening, not a "battery" for Scary German Guy's ritual.
+- **2026-07-16 (decided live, grill-canon session, later same day):** Sticking with "Phoebe" as her working name for now, without fully closing the question for the finished manuscript.
 - **2026-07-16 (decided live):** Dave confirmed "Phoebe" as the vault's preferred name in loose prose/cross-references going forward, to avoid confusion with the unrelated [[Ashley]] character in the Clara McKenzie material. Updated the loose "Ashley" references across ~12 other pages that weren't quoting source material or documenting the alias itself.

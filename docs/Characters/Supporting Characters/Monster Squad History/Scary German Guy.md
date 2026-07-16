@@ -26,8 +26,12 @@ Based In: Originally in California; potential to reappear in King County or a ne
 
 - **[[Mage]] of Significant Power**: Scary German Guy possesses advanced knowledge of ritual magic, wards, and protective spells, especially regarding portals and inter-dimensional threats. His abilities might align with the [[Mysterium]] order or a similar faction focused on preserving dangerous knowledge.
 
-- **Possibly also a Hunter (brainstormed, unresolved):** One theory floated for how the kids ever cross paths with him at all (there's no German-language diary in this telling to force the connection) has him already scouting the Vampire's hideout on his own, sensing the town's Locus/leyline disturbance as both Mage and Hunter. An alternate, equally unresolved theory has the kids instead stumbling onto German writing or symbols directly in the Vampire's lair, with Scary German Guy as their only lead for translating it. Neither option has been chosen. See [[The California Incident]].
+- **How the kids cross paths with him, resolved (2026-07-16, decided live, grill-canon session):** He was already independently investigating the Vampire's house (there's no German-language diary in this telling to force the connection) when the Monster Squad arrived there on their own. Dave's best reconstruction, not stated with full certainty: the kids didn't so much need his help as insist they were now part of it — from there, either he begrudgingly worked with them, or the two groups (his investigation and theirs) ended up working separately and getting in each other's way. See [[The California Incident]].
     
 - **Secretive Nature**: Despite aiding [[The Monster Squad (group)]], Scary German Guy kept much of his personal life and knowledge hidden. He likely has a network of contacts in the magical community, but he keeps his distance, operating in secrecy.
     
 - **Potential Ally or Mentor**: Though his whereabouts are unknown, his experience could make him a valuable ally if [[Rudy Williams]] were to find him. He might hold additional knowledge about the portal or the supernatural forces involved, as well as insights into [[Phoebe]]’s condition.
+
+## Timeline
+- **(pre-existing, date unknown):** Introduced as the mage who helped the Monster Squad close the portal.
+- **2026-07-16 (decided live, grill-canon session):** Resolved how he and the kids actually crossed paths — he was already investigating the Vampire's house independently.
