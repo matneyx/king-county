@@ -1,0 +1,1 @@
+No concept, character, or storyline within is the product of AI.  Generative AI tools, including ChatGPT, were used as part of the brainstorming and organizational processes, but every idea, paragraph, sentence, and word was the work of a flesh and blood human.
