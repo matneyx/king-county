@@ -16,7 +16,7 @@ Townsfolk sense something is wrong but won't say it aloud — they just glance n
 
 **Family:** Has a husband (unnamed) who works a factory night shift or drives long-haul trucking — hard labor that pays just enough. They live in a trailer that's clean and modest despite being beyond the plow line. They're offering a reward for Caleb's return — not huge, but it's all they have, meant to show they're serious.
 
-**Discrepancy to reconcile:** A later chat instead describes "Caleb's dad" as not currently together with Leanne — "maybe they were never more than a scared, fragile couple" — which conflicts with the stable "husband" framing above. Unclear if this is the same person (a since-separated partner) or if the two accounts simply don't agree yet.
+**Same person, resolved (2026-07-16, decided live, grill-canon session):** "Caleb's dad" and the husband above are the same man, not two different people — Dave's own reasoning: Leanne has enough going on already without adding "he's not his real dad" drama on top of it. Whether the "stable husband, night shift" framing or the "not currently together, scared fragile couple" framing better describes where they stand at any given point in the story is still open, but it's the same person either way.
 
 **Backstory beat:** Borrowed an unregistered car about six years ago to get to work when hers broke down (earlier framing) / to clear her head before the baby came (later, confirmed framing — this is the actual accident, see above) — no judgment attached in-story, just texture establishing her as one of the area's low-to-middle-class, "used-to-be-the-bad-kid" type residents.
 
@@ -33,3 +33,4 @@ Townsfolk sense something is wrong but won't say it aloud — they just glance n
 - **2025-06-05 (Mystery Clues and Emotion):** Soft-edged birth memories and her reaction to the reveal established as part of the confirmed Caleb-was-never-born twist.
 - **2025-05-29 (Act Beat Refinement Help):** Husband, trailer, reward, unregistered-car backstory, social isolation, and key dialogue lines established via Act 1 outlining for [[What Wasn't and What Was]].
 - **2025-06-02 (Project Chronicle Summary):** Confirmed the unregistered car incident was the actual accident that caused the real pregnancy loss; her account of the slow-dawning realization established. Flagged a discrepancy between the earlier "husband" and this chat's "not together, scared fragile couple" framing of Caleb's dad.
+- **2026-07-16 (decided live, grill-canon session):** Confirmed "Caleb's dad" and the husband are the same person — no paternity-doubt drama intended.

@@ -1,3 +1,5 @@
+> Note for next draft: Take some time to describe the field, the barn, and trailer park before Jamie escapes the Hedge.  Set a peaceful scene that's interrupted by Jamie and the Huntsman.
+
 The child stumbled quickly through the gap between two trees, bursting from the canopy-covered creekside into the open field ahead of them.  They held up their immaculately clean hands to shield their eyes from the morning sun as it crested a silhouette of trees, power lines, and single-wide trailers off to their right.  Everything about this was all wrong. The colors were muted, and the smells in the air were dull, but at the same time everything was more real than the child had ever experienced.
 
 The child's attention was on the rising sun in the distance, and their steps were awkward and clumsy, like a newborn doe, and without warning the child tripped on an exposed root, slamming into the ground.  Like the sights and smells, everything about the pain was all wrong.  Their entire body was numb, as if feeling the world through a soft blanket, but the feeling of the rough dirt against their palms and their knees was intense; for the first time ever, they could feel every pebble in the soil, and every blade of grass, as their tiny body crushed the flora beneath their weight.
@@ -23,3 +25,16 @@ The child watched, their breath held tight in their chest, as the hunter entered
 The child waited only three heartbeats before moving, rushing back through the hole in the wall they had come in through, then away from the safety of the trailer homes.
 
 Behind them, the hunter tried to squeeze through the hole.
+
+---
+
+* Rudy leaving Tina's and the trailer park
+* Rudy passing by the barn where he sees the hunter exit the front door and begin running toward the rear
+* Rudy sees Jamie running away from the barn, barefoot, and puts together that the hunter is chasing Jamie
+* At this point, Rudy can start to see the large shadow the hunter is unnaturally casting
+* Rudy flips a bitch and flings the truck door open for Jamie, shouting "Get in!"
+* Jamie gets in the truck, Rudy sees the hunter's true shadow
+    * Alternate Jamie hesitates, Rudy sees the hunter's true shadow and pulls Jamie into the truck
+* Rudy considers shooting the hunter but realizes he'd be shooting toward the trailer park
+* Rudy floors the truck into the hunter, verifying two individual bumps when the truck wheels cross over its body
+* Rudy and Jamie drive off away from sunrise (into the sunset, but... it won't be there for like 14 hours)

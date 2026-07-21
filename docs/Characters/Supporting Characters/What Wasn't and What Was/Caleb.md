@@ -22,6 +22,8 @@
 - The Jane Doe hospital record showing Leanne pregnant on arrival, not pregnant on discharge.
 - His unmarked grave in a community plot.
 
+**Doubt, not disbelief, confirmed (2026-07-16, decided live — from "Westernizing What Wasn't"):** The people around Caleb doubt him — they hesitate, they misremember, they contradict themselves — but that's a meaningfully different, softer thing than actively disbelieving in him. Doubt leaves room open; outright disbelief would close it. This distinction is the mechanical hinge for Caleb's intermittent on-page appearances: he's able to flicker into being at moments of peak collective belief (a candlelight vigil being the clearest example) precisely because doubt hasn't hardened into disbelief yet. Once belief curdles all the way into disbelief, he can't show up at all — which is also why he doesn't reappear in Act III until the mystery is actually resolved and Leanne chooses to believe again.
+
 **Instability of his name:** Adults are hesitant or contradict each other about him — "I could've sworn she had a kid," "Didn't she come back from Salt Lake with a baby?", "I thought his name was Jacob." None of it reads as suspicious in the moment — just the natural fog of small-town memory.
 
 **Confirmed name-flicker:** The specific alternate name is Jacob Thomas. At Caleb's vigil, someone calls him "Jacob" aloud and Leanne corrects them instantly; in that same moment, Rudy sees the "Caleb Thomas" missing poster flicker to read "Jacob Thomas" before reverting — noticed only by him. This is meant to echo again in Act 2, when someone calls him Jacob and doesn't realize they've said it.
@@ -34,3 +36,4 @@
 - **2025-06-02 (Project Chronicle Summary):** Real mechanism behind the reveal confirmed (Leanne's actual pregnancy loss in a car accident, unmarked grave); additional evidence items and physical details (hoodie with ears, personal Berenstain Bears copy) established via Act 2/3 outlining. On a second pass: corrected an overconfident claim that "the drawing" Rudy carries was Caleb's — the source never specifies whose drawing it is, and it may actually be Phoebe's.
 - **2025-06-03 (Character Driven Plot Outline):** Surname discrepancy ("Caleb Raines") flagged from an alternate outline draft.
 - **2025-06-03 (Mystery Plot Breakdown):** Age discrepancy ("five years old") flagged from another alternate outline draft.
+- **2026-07-16 (decided live, from "Westernizing What Wasn't"):** Confirmed the doubt-vs-disbelief distinction — people doubt Caleb, they don't disbelieve him — as the mechanism letting him flicker into being at moments of peak belief (e.g. a candlelight vigil), and why he can't reappear in Act III until the mystery resolves.

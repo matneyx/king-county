@@ -25,11 +25,14 @@ Unconfirmed detail (from a discarded draft scene, not settled canon): a rug insi
 
 **Succession thread (context incomplete):** Rudy's will apparently addresses who inherits the Inn — see the "mysterious successor" note on [[Rudy Williams]] and [[Nathan Hale]].
 
+**Social mechanic — nosy vs. anonymous, confirmed (2026-07-16, decided live — from "Westernizing What Wasn't"):** Shepherd's Inn is deliberately the *nosy and protective* pole of Shepherd Junction's social geography — regulars notice when something's off, ask about it, and look out for each other, which is exactly why it works as a hub for people who need supernatural help. This is a direct contrast with [[LeGrande Station]] across the street, which is deliberately the *anonymous and exploitable* pole — clean, bright, corporate-feeling, the kind of place a stranger can pass through without anyone remembering their face. The same physical layout (two roadside stops facing each other) does double duty as a thematic one: watched-over vs. anonymous, community vs. commerce.
+
 ## Timeline
 - **(pre-existing, date unknown):** Established as Rudy's home base and roadhouse.
 - **2025-06-04 (Escalating Tensions Rewrite):** Feud with Nathan Hale over the property established; antlers over the door and the "genuinely a bit of a blight" admission added; unconfirmed mother's-rug detail logged from a discarded draft scene.
 - **2025-06-04 (Escalating Tensions Rewrite, full transcript):** Specific blight complaints (scrap metal, broken windows, unmoved truck) and Hale's neon-cowboy tourism-grant motivation added.
 - **2025-06-02/03 (Supernatural Horror Publishers):** Succession/inheritance thread cross-linked — context incomplete.
 - **2026-07-14 (The Prodigal Son manuscript shared):** Legal code-enforcement immunity and interior/atmosphere details (pinball machine, jukebox, regulars) established.
+- **2026-07-16 (decided live, from "Westernizing What Wasn't"):** Confirmed as the nosy/protective pole of Shepherd Junction's social geography, deliberately contrasted with LeGrande Station's anonymous/exploitable pole.
 
 ![[Shepherd's Inn.webp]]
