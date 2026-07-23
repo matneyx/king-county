@@ -14,13 +14,13 @@ aliases:
 
 #### **Summary**
 
-- **Background**: A vampire (not Dracula) arrived in a small [[California]] town with plans to open a portal to an unknown realm—possibly Limbo, the Abyss, or the Underworld. This portal was intended to bring darkness and corruptive energy, echoing the influence of [[The Wyrm]].
+- **Background, motive confirmed (2026-07-22, decided live):** A vampire (not Dracula, confirmed Lasombra — see [[The Vampire]]) arrived in a small [[California]] town obsessed with the Abyss itself, true Lasombra fashion. The goal wasn't to open a door and step through — it was to tear it wide enough to drag the Abyss through into the town, and hopefully let it keep spreading past that.
     
 - **Gathering Forces**: The vampire’s presence attracted nearby supernatural forces, including [[California Werewolf Pack|the California Werewolf Pack]], who sensed the [[Wyrm Taint|Wyrm-taint]] and attempted to stop the vampire. The vampire’s followers included a flesh golem (following the rules of a Promethean), a twisted creation bound to serve him.
     
 - **Monster Squad Intervention**: The only ones who uncovered the full scope of the vampire’s plan were Rudy and his friends, later dubbed [[The Monster Squad (group)|the Monster Squad]] With the help of [[Scary German Guy]], an experienced mage, they pieced together the vampire’s ritual and prepared to intervene.
     
-- **The Ritual and Phoebe's Awakening (resolved 2026-07-16, decided live, grill-canon session — see below):** [[Phoebe]] sealed the portal herself via a spontaneous [[Awakening]], with [[Scary German Guy]] genuinely present and involved but not the source of the power. Though successful, this act traumatized Phoebe, leading to her current catatonic state. The ritual ended the vampire's immediate threat but may have left residual energy in the area, creating a lasting scar on the supernatural fabric of the town.
+- **The Ritual and Phoebe's Awakening (resolved 2026-07-16, decided live, grill-canon session — full sequence confirmed 2026-07-22):** With the Abyss tearing open and threatening to engulf the town, [[The Promethean]] shoves the Vampire into the breach — sacrificing himself by going in after him — and [[Phoebe]] seals the portal shut behind both of them via a spontaneous [[Awakening]], with [[Scary German Guy]] genuinely present and involved but not the source of the power. Though successful, this act traumatized Phoebe, leading to her current catatonic state. The ritual stopped the Abyss from actually breaching through, but at the cost of leaving residual energy in the area — a lasting scar on the supernatural fabric of the town, closer to a near-catastrophe averted than a clean victory.
     
 
 ---
@@ -57,6 +57,7 @@ aliases:
 
 ## Timeline
 - **(pre-existing, date unknown):** Core incident summary established.
+- **2026-07-22 (decided live, grill-canon session):** Vampire's true motive confirmed — pure Abyss-obsession, not power/service/ritual; the goal was to drag the Abyss through into the town, not to visit it. Full ritual sequence confirmed: the Promethean pushes the Vampire into the breach and follows him in, and Phoebe seals the portal behind both of them — explaining why both are confirmed to return later in the series. See [[The Vampire]].
 - **2025-05-29 (Act Beat Refinement Help):** Tunnels-under-town location detail established, referenced as a sense-memory trigger for Rudy in [[What Wasn't and What Was]].
 - **2024-10-29 ("Ghosts of King County," the original setting-building chat that seeded this vault):** Date confirmed as 1986, with Rudy's and Phoebe's ages pinned down (15 and 5, respectively).
 - **2025 ("California Incident Brainstorming," full data export):** Locus/leyline rationale, the narrative frame device, Sean and Horace as named members, the police-station foreshadowing beat, the no-diary recruitment gap, and the post-incident military recruitment all established. Also the point where two different real-world setting retcons (San Bruno, then Baton Rouge) were explored and never reconciled with the vault's plain "California town."

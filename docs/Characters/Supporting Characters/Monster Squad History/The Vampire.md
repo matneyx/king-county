@@ -12,13 +12,15 @@ aliases:
 
 **Corrected mechanism — pushed, not pulled (per "Civilian Rifle Equivalents," full data export):** Dave's own direct correction of an earlier assistant framing: "the Abyssal tear didn't pull the vampire in — the vampire was **pushed** by a Frankenstein-type Promethean." The vampire's entry into the Abyss was an act of sacrifice/attack by [[The Promethean]], not an accident of the ritual itself. The werewolf he'd bound (see [[Wolfman]]) was starving and near-feral by the time the kids encountered it — a further confirmation it was acting entirely under his domination, not its own will.
 
+**Full sequence, confirmed (2026-07-22, decided live):** The Promethean shoves the Vampire into the tear — stopping the Abyss from fully breaching through into the town — and [[Phoebe]] seals the portal shut behind them via her spontaneous Awakening (see [[The California Incident]]). Read as "behind them," plural: this is why both the Vampire and the Promethean are confirmed to eventually return later in the series (see the confirmed series endpoint above) rather than just the Vampire alone — the Promethean went in after him, sealed in on the other side of the same closing door.
+
 **Confirmed movie framing:** The film depicts him as Dracula purely as cover — Dave's words: "the movie just depicted the vampire as Dracula to better function as a propaganda film."
 
 **Location of Origin:** [[California]] town (site of the Portal Incident)
 
 #### **Background**
 
-- **Goals and Motivation**: The Vampire came to a small [[California]] town with the intention of opening a portal to a supernatural realm, likely one of corruption such as Limbo, the Abyss, or the Underworld. His exact reasons remain mysterious—whether it was to gain power, serve a higher [[Wyrm Taint|Wyrm-tainted]] entity, or fulfill an ancient ritual is still unclear.
+- **Goals and Motivation, confirmed (2026-07-22, decided live):** Not power, not service to a greater entity, not ritual duty — the Vampire was simply obsessed with the Abyss itself, true Lasombra fashion. The goal was never to open a door and step through to visit it. He meant to bring the Abyss to Earth — to tear it open wide enough that it would engulf the town, and hopefully keep spreading past it. Not a personal-power play; closer to an act of annihilation he wanted to cause and be consumed by.
 
 - **Not actually Dracula, brainstormed mechanics (per the "California Incident Brainstorming" pass):** He'd made three thralls locally, all of whom were later killed publicly with wooden stakes — consistent with a Ventrue, or a vampire with the Selective Feeding flaw. He may also have been addicted to vampire blood himself, which would explain why he embraced (rather than just fed on) his thralls. He created [[The Promethean|Frankenstein]] with the same lightning depicted in the film.
     
@@ -51,3 +53,4 @@ aliases:
 ## Timeline
 - **(pre-existing, date unknown):** Core background, abilities, and legacy established.
 - **2025-06-03 (Monster Squad Sequel Idea):** Speculative banishment clarification and clan identity added via a "what if" sequel brainstorm — not confirmed as canon.
+- **2026-07-22 (decided live, grill-canon session):** True motive confirmed — pure Abyss-obsession, true Lasombra fashion, not power/service/ritual. The goal was never to visit the Abyss but to drag it through to Earth and let it engulf the town (and hopefully further). Full sequence confirmed: the Promethean pushes him into the tear, then goes in after him, and Phoebe seals the portal behind both of them — which is why both return later in the series.

@@ -1,5 +1,8 @@
 Running log of ideas surfaced in brainstorming chats that didn't get fully integrated elsewhere — discarded alternates, half-formed threads, or things that seemed tangential at the time. Kept here rather than dropped, since this vault is a brainstorming repo first and a source of truth second. Check this list against new chats to see if an idea resurfaces (a sign it's more load-bearing than it looked) or can finally be fleshed out.
 
+## From "King County Chronicles 1 prewriting" (Google Docs dump, 2026-07-22) — name not adopted
+- **Katelyn la Rouge** — a Toreador vampire from Dave's separate Castle Dell, GA play-by-post game, Mickey's friend and possibly protégé there. Died in that game. Explicitly not being brought into these stories — flagged only because the name surfaced once with zero context, not because there's anything to build on.
+
 ## From "Jane Doe Investigation Plausibility" (full data export, 2025) — rejected alternate reveal
 - **Caleb as a mannequin, Leanne as "a different kind of crazy"** — a fully non-supernatural alternate version of the central reveal, floated and explicitly rejected by Dave in his own words: "More sad. WAY less fun." Kept the supernatural/belief-based reveal instead.
 

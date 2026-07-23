@@ -8,6 +8,8 @@ Old train station turned 50s throwback gas station and diner, complete with all 
 
 **Social mechanic — anonymous vs. nosy, confirmed (2026-07-16, decided live — from "Westernizing What Wasn't"):** LeGrande Station is deliberately the *anonymous and exploitable* pole of Shepherd Junction's social geography — clean, bright, corporate-feeling, the kind of place a stranger passes through without anyone remembering their face. This is a direct contrast with [[Shepherd's Inn]] across the street, which is deliberately the *nosy and protective* pole — regulars notice when something's off and look out for each other. The physical layout (two roadside stops facing each other) does double duty as a thematic one: commerce vs. community, anonymous vs. watched-over.
 
+**Trucker showers, confirmed (2026-07-22, decided live):** Has shower facilities, standard for a highway truck stop. This is also the anonymous departure point [[Jamie|Moss]] uses to hitch a ride from a trucker heading toward [[Red Bridge, Colorado|Red Bridge]] on drug runs (see [[The Huntsman]]) — nobody at LeGrande Station remembers faces, which is exactly why it works for that and not [[Shepherd's Inn]].
+
 **Timeline, resolved (2026-07-16, decided live, grill-canon session):** Hale purchased and renovated the station **six years** before the present-day events of [[The Prodigal Son (A King County Chronicle)|The Prodigal Son]] — a deliberate compromise between that manuscript's "three years" and the "roughly ten years" feud framing established elsewhere (see [[Nathan Hale]]). Dave's own call: the exact figure isn't important enough to chase down further.
 
 ## Timeline
@@ -16,3 +18,4 @@ Old train station turned 50s throwback gas station and diner, complete with all 
 - **2026-07-14 (The Prodigal Son manuscript shared):** Interior/atmosphere details added; the "three years prior" purchase timeline surfaced, in tension with the "ten years" feud framing elsewhere.
 - **2026-07-16 (decided live, grill-canon session):** Timeline conflict resolved — six years, splitting the difference.
 - **2026-07-16 (decided live, from "Westernizing What Wasn't"):** Confirmed as the anonymous/exploitable pole of Shepherd Junction's social geography, deliberately contrasted with Shepherd's Inn's nosy/protective pole.
+- **2026-07-22 (decided live, grill-canon session):** Confirmed shower facilities, and confirmed as Moss's anonymous departure point for hitching rides to Red Bridge on drug runs. See [[Jamie]] and [[The Huntsman]].

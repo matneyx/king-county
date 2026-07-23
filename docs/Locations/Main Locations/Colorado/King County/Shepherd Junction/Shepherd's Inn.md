@@ -15,6 +15,8 @@ Predates [[LeGrande Station]] across the street by at least 30 years. [[Nathan H
 
 **Legal immunity from code enforcement (per [[The Prodigal Son (A King County Chronicle)|The Prodigal Son]]):** The Inn has never been inspected and never will be — a personal favor from a county official (almost certainly [[Executive Dawes]]) grateful to Rudy for saving his son's life. This explains a mechanic in the Hale feud: Hale can't just report the place and have the county force a shutdown or fine, which is presumably part of why he's stuck trying to buy Rudy out instead.
 
+**The immunity is temporary, confirmed (2026-07-22, per "King County Chronicles ChatGPT consolidatation"):** Rudy loses it at the end of Book 2 — by Book 6 he's back on the grid, dealing with cops, a health inspector, and other bureaucratic distractions Mickey either engineers or exploits. See [[Book Order and Series Structure]].
+
 **Interior (per The Prodigal Son):** Small — a single bar with room for two or three, two standing tables in the middle, four more against the walls. A Twilight Zone pinball machine sits in the corner next to a jukebox stocked with outlaw country and classic rock ("Pretend I Never Happened" by Waylon Jennings gets a direct mention). A grey plastic bus tub for dirty glasses. Regulars include local oil-field workers stopping for one drink after their shift, and [[Gil]], an old biker who closes out most nights with "one more for the road."
 
 Mounted antlers hang above the front door.
@@ -34,5 +36,6 @@ Unconfirmed detail (from a discarded draft scene, not settled canon): a rug insi
 - **2025-06-02/03 (Supernatural Horror Publishers):** Succession/inheritance thread cross-linked — context incomplete.
 - **2026-07-14 (The Prodigal Son manuscript shared):** Legal code-enforcement immunity and interior/atmosphere details (pinball machine, jukebox, regulars) established.
 - **2026-07-16 (decided live, from "Westernizing What Wasn't"):** Confirmed as the nosy/protective pole of Shepherd Junction's social geography, deliberately contrasted with LeGrande Station's anonymous/exploitable pole.
+- **2026-07-22 (decided live, grill-canon session):** Confirmed the code-enforcement immunity is lost at the end of Book 2, and that the cab-over camper out back is specifically Moss's, not Rudy's. See [[Book Order and Series Structure]] and [[Jamie]].
 
 ![[Shepherd's Inn.webp]]

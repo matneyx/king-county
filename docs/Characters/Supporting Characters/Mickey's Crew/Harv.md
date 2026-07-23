@@ -21,6 +21,8 @@ Harv isn't leashed to Mickey's physical proximity either — he can wander off f
 - Harv offers Mickey advice based on his past experiences, sometimes functioning as a voice of reason, albeit one that may not always align with Mickey’s understanding of reality.
 
 **Confirmed human background (per "Vampire Population Ratio," full data export):** A client at [[Missy Chamberlain|Missy]]'s brothel in [[Castle Dell, Georgia]] who fell in love with her; unable to have her, he became her bartender/security/protector instead, and she eventually embraced him. Mickey diablerized him the same night Missy embraced Mickey. Dave's own comparison for the Harv/Mickey dynamic: "Silent Bob" to Mickey's "Jay." His stance toward Mickey is explicitly **pity, not condemnation** — his words can still land with Mickey precisely because he never tries to control him.
+
+**Era, confirmed (2026-07-22, decided live, grill-canon session):** Harv's own human years at the brothel are turn-of-the-century — he's embraced sometime after Missy's already running the place, which is what pins down Michael Turino's own corrected, later arrival at Castle Dell (see [[Mickey Two-Dice]]).
  ![[Harv.webp]]
 
 ## Timeline
@@ -28,3 +30,4 @@ Harv isn't leashed to Mickey's physical proximity either — he can wander off f
 - **2026-07-14 (relayed directly by Dave):** Corrected the "lazy/passive-aggressive" framing — Harv and Missy are disembodied and can't physically interact with the world at all, not choosing to withhold help.
 - **2025 ("Vampire Population Ratio," full data export):** Confirmed human background (Missy's brothel, the "Silent Bob" comparison) and the diablerie timing.
 - **2026-07-16 (decided live, grill-canon session):** Refined the perceptibility/autonomy rule — Harv and Missy have full free will and can perceive each other (and could, per Kayla, perceive her too during her own disembodied window), just no meaningful physical interaction with the living world. Also confirmed Harv is genuinely lazy on top of that — capable of observation/following tasks, but he'll never volunteer for one.
+- **2026-07-22 (decided live, grill-canon session):** Confirmed his human years as turn-of-the-century, pinning down Michael Turino's corrected arrival timeline. See [[Mickey Two-Dice]].

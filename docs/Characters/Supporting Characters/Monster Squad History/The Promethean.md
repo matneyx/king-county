@@ -18,7 +18,11 @@ aliases:
 
 - **Creation method (brainstormed):** [[The Vampire]] is theorized to have animated him with the same lightning strike depicted in the film, of the Frankenstein lineage of Prometheans specifically.
 
-- **Confirmed series endpoint (per "Vampire Population Ratio," full data export):** Both he and [[The Vampire]] eventually return from the Abyss together, roughly 30 years after being pulled in. The Promethean joins [[Rudy Williams|Rudy]]'s circle upon returning — exact circumstances of the return still undecided by Dave, but the fact of it, and his subsequent alliance with Rudy, is confirmed as a fixed future story beat, not just brainstormed.
+- **Confirmed series endpoint (per "Vampire Population Ratio," full data export):** Both he and [[The Vampire]] eventually return from the Abyss together, roughly 30 years after being pulled in. The Promethean joins [[Rudy Williams|Rudy]]'s circle upon returning — exact circumstances of the return still undecided by Dave, but the fact of it, and his subsequent alliance with Rudy, is confirmed as a fixed future story beat, not just brainstormed. **Deliberately left open (2026-07-22, grill-canon session):** The actual return mechanism — not being pushed for an answer now.
+
+- **Role in the series finale, confirmed (2026-07-22, per "King County Chronicles ChatGPT consolidatation" — see [[Book Order and Series Structure]]):** Joins Rudy, Amber, Phoebe, Moss, and Doc in the final battle against Mickey. He and the Abyss-touched vampire Mickey later diablerizes were in the Abyss together for the same ~30 years — a direct link between the two. He's unmade/torn into his component parts early in the fight; whether that permanently kills him isn't the point on the page, just that it removes him from the battle.
+
+- **Psychic link with Phoebe, confirmed real (2026-07-22, decided live):** Kinda, per Dave's own cosmology logic — the Astral plane and the Abyss are both layers of the Umbra (Astral = High Umbra, Abyss = Low Umbra — see [[King County Cosmology Framework]]). [[Phoebe]]'s an unwitting master of Astral projection; he's trapped in the Abyss. Adjacent layers of the same structure, plus the real trauma bond from the ritual, keeps an active link open between them — not just dormant, waiting for his return.
 
 - **Corrected mechanism — he pushed the Vampire in, not the other way around (per "Civilian Rifle Equivalents," full data export):** Dave's own direct correction of an earlier framing: "the Abyssal tear didn't pull the vampire in — the vampire was pushed by a Frankenstein-type Promethean." Confirmed as sacrificing himself specifically to stop [[The Vampire]], not simply being drawn in alongside him as an accident of the ritual.
 
@@ -55,3 +59,4 @@ aliases:
 ## Timeline
 - **(pre-existing, date unknown):** Core background, sacrifice, and legacy established.
 - **2025-06-03 (Monster Squad Sequel Idea):** A speculative "what if" idea has him returning as an ally rather than a foe — "he remembers" — via a hypothetical sequel brainstorm, not confirmed as canon.
+- **2026-07-22 (decided live, grill-canon session):** Confirmed a real, active psychic link with [[Phoebe]] via adjacent Umbra layers (Astral/Abyss) plus their trauma bond. Return mechanism deliberately left open for now.

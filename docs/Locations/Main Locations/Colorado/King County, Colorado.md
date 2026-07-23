@@ -4,6 +4,17 @@ aliases:
 ---
 **Location:** Western Slope, Colorado Rocky Mountains; based on real life cities such as Montrose, Delta, Grand Junction, Avon, Vail, and Crescent Junction (Utah). Per [[The Prodigal Son (A King County Chronicle)|The Prodigal Son]], Rudy's own working sense of the county's boundaries runs "effectively from Stanton City to Stockton, over to Jackson Ridge, down to Shepherd Junction, and back to Stanton City."
 
+**Town-to-real-world mapping, confirmed (2026-07-22, from a rediscovered Google Docs town-naming pass):**
+- [[Stanton City, Colorado|Stanton City]] — Grand Junction, CO (largest city in the region)
+- [[Shepherd Junction, Colorado|Shepherd Junction]] — Crescent Junction, UT
+- [[Jackson Ridge, Colorado|Jackson Ridge]] — Durango, CO
+- [[Hyatt City, Colorado|Hyatt City]] — Cedaredge, CO
+- [[Jensen, Colorado|Jensen]] — Montrose, CO
+- [[Red Bridge, Colorado|Red Bridge]] — Olathe, CO
+- [[Brindle, Colorado|Brindle]] — Delta, CO
+
+**Geography along the Shepherd-Jackson Highway, confirmed (2026-07-22):** Shepherd Junction (north) → Red Bridge → Jackson Ridge (south), in that order. [[Jensen, Colorado|Jensen]] is a separate town east of Jackson Ridge, off this route entirely.
+
 **Reputation:** Known as a supernatural no-man’s-land, with rumors and local legends suggesting that something dark and dangerous lingers within its boundaries.
 
 **Primary Inhabitants:** Sparse population, mostly humans; minimal supernatural presence due to its reputation as an avoided area among supernatural creatures.
@@ -35,6 +46,8 @@ aliases:
 - **No-Man’s-Land Status**: King County’s supernatural reputation is one of avoidance and mystery. Even powerful supernatural creatures, including werewolves and vampires, keep their distance, leaving the area with an unspoken aura of corruption or danger.
     
 - **Residual [[Wyrm Taint]]**: There are whispers among supernatural circles that King County holds traces of Wyrm-tainted energy, a contamination often tied to corruption and decay. Some believe that this energy dates back to a failed ritual or an ancient curse, giving rise to the region’s “cursed” status.
+
+- **Same wound as California, confirmed (2026-07-22, decided live):** King County's fracture and the tear [[The Vampire]] opened in [[California]] are the same underlying wound into the Abyss — not two separate curses, two weak points along one much older crack. King County's point is ancient, predating the 1986 incident by far longer than the county's own recorded history; the Vampire simply found and forced open a *different* weak point along that same tear, closer to the surface and easier to widen. This is also why the two places share the same flavor of "wrongness" rather than two unrelated cosmic horrors.
     
 - **Interdimensional Qualities**: The strange energy in King County may act as a thin veil between realms, contributing to its avoided status. Supernatural beings who venture too close describe sensations of vertigo, as though they’re teetering on the edge of a chasm or another dimension.
     
@@ -60,5 +73,7 @@ aliases:
 
 ## Timeline
 - **(pre-existing, date unknown):** Core setting established — no-man's-land reputation, physical description, supernatural significance, local legends.
+- **2026-07-22 (decided live, grill-canon session):** Confirmed the county's fracture is the same wound as the one [[The Vampire]] tore open in [[California]] — an ancient crack in the Abyss with multiple weak points, King County's being far older than the 1986 incident. See [[The Vampire]] and [[Phoebe]].
 - **2024-10-29 ("Ghosts of King County," the original setting-building chat that seeded this vault):** Core visual/moral design rule (darker and dirtier than real life, clean places feel alien) and the setting's technology level (no smartphones, Nokia 3310, dial-up internet, ~2014 in-fiction) established.
 - **2025 ("Civilian Rifle Equivalents," full data export):** Confirmed the county's specific existence mechanics — sitting in rather than on the fracture, inconsistent map borders, the intermittent Shepherd Junction/Stanton City highway exits, and the deliberate choice not to over-codify why the county is hard to pin down.
+- **2026-07-22 (decided live, grill-canon session, from a rediscovered Google Docs town-naming pass):** Consolidated the full town-to-real-world mapping in one place; corrected a Jackson Ridge/Hyatt City mixup (Jackson Ridge is Durango, not Cedaredge); resolved Red Bridge as Moss's drug-run town from [[The Huntsman]]. Pinned down the actual geography: Shepherd Junction → Red Bridge → Jackson Ridge along the Shepherd-Jackson Highway, with Jensen a separate town east of Jackson Ridge, off that route.

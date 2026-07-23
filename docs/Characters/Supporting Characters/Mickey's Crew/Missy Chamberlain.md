@@ -26,6 +26,8 @@ aliases:
 
 **Confirmed human background (per "Vampire Population Ratio," full data export):** A former prostitute before becoming a brothel owner in [[Castle Dell, Georgia]]. Embraced Michael Turino — Mickey's human self, an internationally renowned neurologist/psychiatrist she sought out specifically for his knowledge of the mind, not realizing "there was evil inside of him." Was impartial/distant toward Mickey until he diablerized her — having since watched his cruelty from inside his own head, she now pities him and regrets ever creating him. Dave's own comparison: "she looks at him the same way Jeffrey Dahmer's mom must have looked at him." That pity has real teeth, though — Dave's own further line: "If Missy still had a body, she'd kill Mickey."
 
+**Era, confirmed (2026-07-22, decided live, grill-canon session):** Missy's own human years as a prostitute-turned-brothel-owner are Victorian-era/Wild-West-era — this is what pins down Michael Turino's own corrected arrival at Castle Dell to around/shortly after WWI at the latest (see [[Mickey Two-Dice]]), since she has to have already run the brothel long enough to embrace [[Harv]] before Michael ever shows up.
+
 ![[Missy Chamberlain.webp]]
 
 ## Timeline
@@ -33,3 +35,4 @@ aliases:
 - **2026-07-14 (relayed directly by Dave):** Corrected the "manipulative secret" framing — she and Harv genuinely tried and gave up telling Mickey the truth, rather than withholding it strategically.
 - **2025 ("Vampire Population Ratio," full data export):** Confirmed human background (Castle Dell brothel, embracing Michael Turino) and her private pity/regret toward Mickey.
 - **2026-07-16 (decided live, grill-canon session):** Refined the perceptibility rule — she and Harv can perceive each other, and could perceive Kayla during her own disembodied window, though no one outside that circle ever has.
+- **2026-07-22 (decided live, grill-canon session):** Confirmed her human years as Victorian/Wild-West era, pinning down Michael Turino's corrected arrival timeline. See [[Mickey Two-Dice]].

@@ -19,7 +19,21 @@ Carries a gun and says she'll use it if it comes to protecting Zack or herself �
 
 ![[Amber.webp]]
 
+**Name sourced from Dave's own prior material, confirmed (2026-07-22, per "King County Chronicles ChatGPT consolidatation"):** "Amber" wasn't invented fresh for this — Dave pulled it from his own earlier play-by-post game material ("I just looked it up").
+
+**Origin scene, drafted (same source):** Rudy tries to warn her off the investigation, cryptically ("You will learn things you can never unlearn, and you'll never look at him the same way again" — ostensibly about her missing friend, really about the supernatural at large). She makes clear she'd have found that world regardless of whether Rudy showed up — he decides it's safer to keep her close than leave her an uncontrolled variable. Dave's own stated theme for this: "Once you see the darkness, it sees you." Her own later line to Rudy, once she's proven herself: "You don't have to do this alone, you know. I'm here. I'm willing. This isn't some secret war only you can fight... If anything, you need more soldiers on your side."
+
+**Specific book placement, confirmed (2026-07-22, from "King County Chronicles Book Map.xlsx"):** Introduced in Book 3 (Clara), hired on as Shepherd's Inn's bartender in Book 4 (Doc). See [[Book Order and Series Structure]].
+
+**Employment mechanism, confirmed (same source):** Once Shepherd's Inn loses its code-enforcement immunity (end of Book 2), Rudy can't keep closing for unexplained "family emergencies" — so he hires her as the Inn's actual first employee, since she already knows what he really does and won't panic when his mask slips.
+
+**Friendship with Jenn, floated (same source):** Dave wants a real friendship built between Amber and Jenn before Jenn's Book 6 kidnapping, specifically so it has two books' worth of runway rather than feeling sprung on the reader.
+
+**Book 6, drafted (per "King County Chronicles ChatGPT consolidatation"):** By this point she's a skilled protégé Rudy won't let help directly — he's seen what Mickey does to people and won't risk losing another one he's responsible for. Mickey targets her along with Moss and Jenn to punish Rudy; Rudy eventually lets her fight, and she survives, but barely. See [[Book Order and Series Structure]] and [[Mickey Two-Dice]].
+
 ## Timeline
 - **2024-10-29/2024-11-07 ("Ghosts of King County"):** Introduced in play at Zack's trailer; full backstory with Zack, the party-night account, and Zack's journal established.
 - **2026-07-14 (relayed directly by Dave, source chat not yet reviewed):** Confirmed as the "she" who inherits/takes over Shepherd's Inn in Rudy's eventual will.
 - **2026-07-16 (decided live, grill-canon session):** Reaffirmed as Amber, not Jenn, with the actual hiring mechanism confirmed — the Clara case proves her capability, and Rudy hires her on at the Inn.
+- **2026-07-22 (integrated from "King County Chronicles ChatGPT consolidatation"):** Drafted her role in Book 6 — sidelined by Rudy, targeted by Mickey, survives but barely. Also confirmed her name was sourced from Dave's own prior game material, her origin/recruitment scene, the Shepherd's Inn hiring mechanism, and a floated pre-kidnapping friendship with Jenn.
+- **2026-07-22 (decided live, grill-canon session, from "King County Chronicles Book Map.xlsx"):** Confirmed specific book placements — introduced in Book 3, hired at Shepherd's Inn in Book 4.

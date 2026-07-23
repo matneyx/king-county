@@ -6,6 +6,8 @@
 
 **Correction (careful re-read, 2026-07-14):** The envelope Jeff hands Rudy at Shepherd's Inn contains a **severed child's finger** — his son is 12. Rudy's gut-punched reaction ("last time, the first time, it was an adult's finger, but even that experience couldn't prepare him for this") is him mentally comparing it to [[Executive Dawes|Dawes]]'s older case, which involved an adult finger. Previously misattributed to Dawes' envelope on both pages — the manuscript's flashback transition back to the present day isn't clearly signposted, which caused the confusion on a first read.
 
+**Frank is his own father, confirmed (2026-07-22, per "King County Chronicles 1 prewriting"):** Completes the three-generations lineup for the present-day case — Frank (grandfather), Jeff (father), Jeff's kidnapped son (child). Jeff confirms it's really his father when he sees him at the nursing home. See [[Mickey Two-Dice]].
+
 ~~- **Role**: Local resident and former troublemaker in [[King County, Colorado|King County]]~~
 ~~- **Background**: Known for getting involved in questionable activities. His relationship with [[Rudy Williams|Rudy]] is tense, with hints of past conflicts and resentment. Jeff represents the type of resident that keeps Rudy on his toes—someone who knows enough to be dangerous but not enough to stay out of trouble.~~
 ~~- **Current Situation**: Jeff is being hunted down by unknown forces or individuals. He initially seeks Rudy's help but ultimately falls victim to a trap, potentially set by the vampire [[Mickey Two-Dice|Mickey]] or his associates.~~
@@ -15,3 +17,4 @@
 - **2024 ("The Prodigal Son" manuscript, Chapter 2):** Introduced in person at Shepherd's Inn.
 - **2024-10-29 ("Ghosts of King County," discussing the shared document):** Summarized secondhand by ChatGPT — this summary turned out to be inaccurate once the primary text was reviewed directly.
 - **2026-07-14 (full manuscript shared directly):** Characterization corrected to match the primary source.
+- **2026-07-22 (integrated from "King County Chronicles 1 prewriting"):** Confirmed Frank as his own father, completing the three-generations lineup. See [[Mickey Two-Dice]].
