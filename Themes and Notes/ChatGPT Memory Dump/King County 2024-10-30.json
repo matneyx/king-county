@@ -1,0 +1,70 @@
+{
+    "setting": {
+        "name": "King County",
+        "description": "A rural, darker, and grittier place with a persistent layer of gloom and neglect. Surfaces are dusty, and the air carries a slight haze, hinting at the moral decay underlying the community. Locations like LeGrand Station shine unnaturally bright, creating discomfort."
+    },
+    "sources": [
+        {
+            "name": "Professor Lydia Hawthorne",
+            "abilities": ["Anthropology", "Archaeology", "History", "Theology"],
+            "location": "Montrose",
+            "setting": "A local community college or university with a small office filled with books and artifacts."
+        },
+        {
+            "name": "Detective Marcus Cole",
+            "abilities": ["Forensics", "Bureaucracy", "Psychology"],
+            "location": "Delta",
+            "setting": "Based at the Delta Police Department, often seen in a modest office with case files."
+        },
+        {
+            "name": "Dr. Fiona Blackwood",
+            "abilities": ["Biology", "Medicine", "Pharmacy", "Chemistry"],
+            "location": "Grand Junction",
+            "setting": "A small medical clinic where she treats patients and conducts pharmaceutical research."
+        },
+        {
+            "name": "Avery Greene",
+            "abilities": ["Accounting", "Business Law", "Bureaucracy"],
+            "location": "Avon",
+            "setting": "A quiet accounting firm with stacks of paperwork and financial software."
+        },
+        {
+            "name": "Old Man West",
+            "abilities": ["Inspiration", "Language", "History"],
+            "location": "Shepherd Junction (Crescent Junction)",
+            "setting": "Often found at Shepherd's Inn, sharing stories with patrons and surrounded by local history maps."
+        },
+        {
+            "name": "Professor Milton Larkin",
+            "abilities": ["Astronomy", "Physics", "Cthulhu Mythos"],
+            "location": "Vail",
+            "setting": "An observatory or university campus filled with astronomy equipment and strange artifacts."
+        },
+        {
+            "name": "Nina Caldwell",
+            "abilities": ["Photography", "Art History", "Psychology"],
+            "location": "Montrose",
+            "setting": "A cozy art studio or gallery filled with artwork and inspiration from local culture."
+        },
+        {
+            "name": "Eliot Johnson",
+            "abilities": ["Medicine", "Biology", "Chemistry"],
+            "location": "Delta",
+            "setting": "A small biochemistry lab near the Delta Medical Center with shelves of chemicals and equipment."
+        },
+        {
+            "name": "Reverend Tobias Gray",
+            "abilities": ["Theology", "Psychology", "Reassurance"],
+            "location": "Stanton City (Grand Junction)",
+            "setting": "St. Paul's Cathedral, where he provides counseling and holds services."
+        }
+    ],
+    "mystery": {
+        "title": "The Disappearance of Clara McKenzie",
+        "background": "Clara McKenzie, a waitress, vanished under mysterious circumstances about two years ago. Known for her friendly demeanor, she began speaking of strange occurrences before her disappearance.",
+        "audio_tape_content": [
+            "Clara expresses fears about being watched and mentions whispers regarding a sacrifice and a ritual in the woods.",
+            "Danny urges her to keep quiet, indicating potential danger in revealing what she knows."
+        ]
+    }
+}
